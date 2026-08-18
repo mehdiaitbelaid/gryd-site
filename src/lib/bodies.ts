@@ -1,0 +1,3758 @@
+import type { Block } from "./types";
+
+/* Article bodies migrated from the live gryd.energy WordPress site, via the
+   verbatim capture in gryd-homepage/content-ref. Text is Gryd's own published
+   copy. Only house style was applied: dash punctuation rewritten, and the company name normalised to Gryd. */
+
+export const bodies: Record<string, Block[]> = {
+  "council-housing-solar-index-2026": [
+    {
+      "_type": "lead",
+      "text": "The UK’s transition to cleaner, lower-cost energy is accelerating, but not everyone is benefiting equally."
+    },
+    {
+      "_type": "para",
+      "text": "New analysis from the Gryd Council Housing Solar Index reveals substantial differences in solar deployment across the UK, highlighting where councils have successfully scaled rooftop solar programmes and where adoption remains limited. It also identifies the regions making the fastest progress, offering insight into how local policy, funding and housing stock characteristics can influence rollout rates."
+    },
+    {
+      "_type": "para",
+      "text": "Compiled from Freedom of Information requests to local authorities, the index offers one of the most comprehensive snapshots of council solar deployment in the absence of any central government dataset."
+    },
+    {
+      "_type": "h3",
+      "text": "The Gryd Council Housing Solar Index 2026"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s research shows that 7.8% of privately owned and tenanted homes now have solar systems installed, compared with 5.8% of council homes nationally. Yet council housing in Wales and Scotland surpasses private homeowners: 10% and 8.6% of their council homes are equipped with solar respectively, demonstrating local authorities’ potential to lead the UK’s transition to clean home energy."
+    },
+    {
+      "_type": "para",
+      "text": "Despite remarkable progress in some regions, hundreds of thousands of social housing tenants remain without access to one of the most effective technologies for lowering household electricity costs."
+    },
+    {
+      "_type": "para",
+      "text": "By comparing performance across regions, the Index provides a clearer picture of how evenly the benefits of solar are being distributed across social housing and where further investment may be needed to close the gap."
+    },
+    {
+      "_type": "h3",
+      "text": "Which regions are leading solar adoption in council housing?"
+    },
+    {
+      "_type": "para",
+      "text": "One of the most striking findings from Gryd’s Social Housing Solar Index 2026 is that some of the strongest-performing regions are located in parts of Britain that don’t typically receive the highest levels of sunshine."
+    },
+    {
+      "_type": "para",
+      "text": "North West Wales leads the UK by a considerable margin, with one-third of council homes now equipped with rooftop solar. North East Wales follows in second place, while Scotland’s Aberdeen and North East region ranks third."
+    },
+    {
+      "_type": "para",
+      "text": "Top 5 Regions for Council Solar Adoption"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "1: Region North West Wales; Share of Council Homes with Solar 33.8%",
+        "2: Region North East Wales; Share of Council Homes with Solar 21.7%",
+        "3: Region Aberdeen & North East; Share of Council Homes with Solar 13.0%",
+        "4: Region Highlands & Islands; Share of Council Homes with Solar 9.0%",
+        "5: Region Southern Wales; Share of Council Homes with Solar 8.1%"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Southern Wales recorded one of the most notable improvements during the past year, increasing from just 0.3% of council homes with solar panels to 8.1%. Scotland’s Highlands and Islands also made significant gains, with solar adoption nearly doubling from 4.7% to 9%."
+    },
+    {
+      "_type": "para",
+      "text": "In England, the East Midlands emerged as a standout performer. The number of solar-powered council homes in the region almost doubled in a single year, accounting for one-third of all newly reported local authority solar installations nationally."
+    },
+    {
+      "_type": "para",
+      "text": "Most Improved Regions"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "1: Region East Midlands; Change Over Past Year +90% (4,875 → 9,625 homes)",
+        "2: Region Southern Wales; Change Over Past Year 0.3% → 8.1%",
+        "3: Region Highlands & Islands; Change Over Past Year 4.7% → 9.0%"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "London remains at the bottom of the rankings"
+    },
+    {
+      "_type": "para",
+      "text": "At the other end of the scale, some regions continue to report very limited solar adoption in council housing."
+    },
+    {
+      "_type": "para",
+      "text": "London has the lowest proportion of solar-powered council homes in the UK, with just 1.6% of properties fitted with rooftop solar. This can largely be attributed to London’s higher proportions of high-density and multi-storey social housing than most regions, limiting the number of properties that are suitable for conventional rooftop solar installations on individual dwellings."
+    },
+    {
+      "_type": "para",
+      "text": "Several other regions also remain well below the national average."
+    },
+    {
+      "_type": "para",
+      "text": "Bottom 5 Regions for Council Solar Adoption"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "2: London Edinburgh & Lothians; 1.6% 2.7%",
+        "3: London South East Wales; 1.6% 2.8%",
+        "4: London South West Wales; 1.6% 2.9%",
+        "5: London Yorkshire & Humber; 1.6% 3%"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Without clear visibility of deployment numbers, it’s impossible to measure progress or identify where parts of the country might be getting left behind in the clean energy transition."
+    },
+    {
+      "_type": "para",
+      "text": "The rankings highlight significant regional variation in council solar deployment across the UK, with some local authorities making rapid progress while others continue to face structural, financial and housing stock-related barriers to rollout."
+    },
+    {
+      "_type": "para",
+      "text": "With social housing tenants among the most vulnerable to fuel poverty, with the least ability to act independently when costs rise, tracking where solar is and isn’t reaching them is the first step to closing that gap."
+    },
+    {
+      "_type": "h3",
+      "text": "Closing the UK’s solar divide"
+    },
+    {
+      "_type": "para",
+      "text": "Findings from Gryd’s Council Housing Solar Index suggest the UK’s clean energy transition risks becoming increasingly uneven unless investment in social housing accelerates."
+    },
+    {
+      "_type": "para",
+      "text": "As the pressure to improve social housing energy efficiency grows, funding models are likely to become an increasingly important part of the conversation. Public funding will remain essential, but emerging financing approaches could also help councils and housing providers accelerate deployment at a scale that current budgets struggle to support."
+    },
+    {
+      "_type": "para",
+      "text": "The challenge for policymakers, local authorities and the wider energy sector is not simply increasing the number of solar panels installed. It is ensuring that the financial and environmental benefits of the energy transition are shared across all housing tenures, rather than becoming concentrated among those who can afford to invest first."
+    },
+    {
+      "_type": "para",
+      "text": "Without faster progress in social housing, the gap between regions may continue to widen just as energy affordability becomes an even more pressing national issue."
+    },
+    {
+      "_type": "h3",
+      "text": "Looking to accelerate solar deployment across social housing?"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd works with local authorities and housing associations to deploy solar and battery technology without the need for significant upfront capital investment, making it easier to scale retrofit programmes and deliver benefits to tenants sooner."
+    },
+    {
+      "_type": "para",
+      "text": "If you are exploring ways to increase solar adoption across your social housing stock, speak to the Gryd team to learn how fully funded solar solutions can support your housing and sustainability objectives."
+    }
+  ],
+  "complete-guide-to-funded-solar": [
+    {
+      "_type": "lead",
+      "text": "Solar is no longer optional for new homes. With the Future Homes Standard mandating on-site renewable electricity generation from March 2027, every house builder in England needs a strategy for solar and storage. The good news: you do not have to fund it yourself."
+    },
+    {
+      "_type": "para",
+      "text": "This guide covers every route available to UK house builders and developers for delivering solar and battery systems on new-build homes, from fully funded models that remove hardware costs entirely, to government schemes, private-wire microgrids, battery subscriptions, and self-funding options."
+    },
+    {
+      "_type": "para",
+      "text": "Whether you are building 10 homes or 10,000, this guide will help you find the right approach for your developments."
+    },
+    {
+      "_type": "h3",
+      "text": "Why Do New-Build Homes Need Solar and Storage?"
+    },
+    {
+      "_type": "para",
+      "text": "From 2027, the Future Homes Standard (FHS) requires virtually all new homes registered in England to include on-site renewable electricity generation. While the regulation does not specifically mandate solar PV, rooftop solar is the most realistic and affordable way to meet the requirement for most developments."
+    },
+    {
+      "_type": "para",
+      "text": "The FHS mandates a 75% reduction in carbon emissions compared to homes built to 2013 standards and solar contributes directly to this reduction. Homes built to the new standard could save occupants up to £830 per year on energy bills compared to a standard EPC C-rated home."
+    },
+    {
+      "_type": "para",
+      "text": "Battery storage is not a requirement under the FHS. However, adding a battery significantly increases the benefit to homeowners by allowing them to store and use more of the solar energy their home generates, rather than exporting it to the grid. Battery storage also contributes to higher EPC ratings and SAP scores, helping developers exceed minimum compliance and differentiate their homes in the market."
+    },
+    {
+      "_type": "para",
+      "text": "For house builders, the implications are clear:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Regulatory compliance requires on-site renewable generation on most plots",
+        "Build costs increase by £5,000-£10,000+ per home for solar and battery hardware",
+        "Margin pressure intensifies in an already challenging market",
+        "Buyer expectations are shifting toward energy-efficient, low-bill homes",
+        "Battery storage, while not mandated, delivers measurably better outcomes for both EPC performance and homeowner savings"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "The question is not whether to include solar, but how to fund it, and whether to go further with battery storage."
+    },
+    {
+      "_type": "h3",
+      "text": "What Are the Options for Funded Solar on New-Build Homes?"
+    },
+    {
+      "_type": "para",
+      "text": "There are six main routes for house builders to deliver solar and storage without absorbing the full hardware cost with the alternative option to self-fund. Each has different implications for build cost, homeowner experience, regulatory compliance, and long-term obligations."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero-CAPEX solar subscription (e.g. Gryd): Developer CAPEX £0; Homeowner Cost Fixed monthly subscription (£70/month for a typical 3 bed); Includes Battery Yes; Scale Any Size; FHS Compliant Yes; Best For All Developers, any development",
+        "Private-wire microgrid (e.g. SNRG): Developer CAPEX £0 (SNRG funded); Homeowner Cost Energy supply contract; Includes Battery Communal; Scale Large developments; FHS Compliant Yes; Best For Large master-planned developments",
+        "Smart Home Package / ESC (e.g. Wondrwall): Developer CAPEX Partial (c. £6k HEMS purchase with Wondrwall); Homeowner Cost Monthly service charge; Includes Battery Yes; Scale Any Size; FHS Compliant TBC; Best For Developers wanting smart home tech",
+        "Government grants and schemes: Developer CAPEX Varies; Homeowner Cost £0 (if eligible); Includes Battery Varies; Scale Limited; FHS Compliant Varies; Best For Social housing and affordable homes",
+        "Green mortgages and finance: Developer CAPEX Full CAPEX or financed; Homeowner Cost House price premium rolled into mortgage; Includes Battery Optional; Scale eligibility dependant on mortgage provider; FHS Compliant Yes; Best For Developers passing cost to buyer",
+        "Self-funded by developer: Developer CAPEX Full CAPEX (£5 to 10k/plot); Homeowner Cost £0; Includes Battery Optional; Scale Any size; FHS Compliant Yes; Best For Developers with strong margins",
+        "Octopus Zero Bills: Developer CAPEX High CAPEX (c. £20k/plot); Homeowner Cost £0 for 5 to 10 years, plus house price premium on purchase; Includes Battery Yes; Scale Eligible plots only; FHS Compliant ; Best For Premium developments seeking “zero bills” headline",
+        "E.ON Next Lower Bills, Built In: Developer CAPEX High CAPEX (c. £15 to 20k/plot); Homeowner Cost £25/month fixed; Includes Battery Yes; Scale Eligible plots only; FHS Compliant ; Best For Developers seeking low, predictable buyer bills"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Option 1: Zero-CAPEX Solar Subscriptions"
+    },
+    {
+      "_type": "h4",
+      "text": "How Does a Zero-CAPEX Solar Subscription Work for House Builders?"
+    },
+    {
+      "_type": "para",
+      "text": "A zero-CAPEX solar subscription model removes the entire hardware cost of solar and battery systems from the developer’s build budget. A third-party provider funds, operates, and maintains the solar and battery equipment for the lifetime of the system. Homeowners pay a fixed monthly subscription for the energy generated on their roof."
+    },
+    {
+      "_type": "para",
+      "text": "This is the fastest-growing model for new-build solar in the UK, and it is the approach Gryd pioneered specifically for the house building sector."
+    },
+    {
+      "_type": "h4",
+      "text": "How Does Gryd’s Model Work?"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd funds, operates, and maintains smart solar and battery systems on new-build homes at zero cost to developers or homeowners."
+    },
+    {
+      "_type": "para",
+      "text": "For the developer:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "£0 hardware cost per plot. Gryd covers all CAPEX for solar panels, batteries, and inverters",
+        "10 to 15 point SAP uplift, typically raising EPC by at least one level",
+        "Systems deployed across all home types and orientations, not just cherry picking the best south facing plots",
+        "Gryd handles all design, coordination, operation, ongoing maintenance and intelligent optimisation to maximise the homeowners bill savings."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "For the homeowner:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Fixed monthly subscription, inflation-proof, from as little as £45/month",
+        "60 to 70%+ of electricity supplied by the on-site solar and battery system",
+        "Savings from day one compared to grid-only electricity",
+        "24/7 monitoring, servicing, and maintenance included",
+        "AI-powered energy management learns household patterns and optimises energy use",
+        "Full flexibility: option to buy out, upgrade, or transfer the system at any time",
+        "25-year Gryd Guarantee covering insurance, management, and replacement parts"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "How the lease works:"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s model is based on a rooftop air rights lease. Gryd leases the airspace above the roof to host and operate the solar equipment. The lease is registered against the property title and transfers automatically when the home is sold. The structure is aligned with UK Finance guidance and accepted by over 300 banks and all major mortgage lenders."
+    },
+    {
+      "_type": "h4",
+      "text": "Why Do House Builders Choose Zero-CAPEX Solar?"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Eliminates margin pressure. Solar hardware costs of £5,000-£10,000 per plot stay off the balance sheet",
+        "No price premium passed to buyers. Homes remain affordable, boosting sales velocity",
+        "Future Homes Standard compliance. Meets and most of the time exceeds, the on-site renewable generation requirement without changing build processes",
+        "Market differentiation. Homes with funded solar, battery storage and lower bills stand out in a competitive market",
+        "Works at any scale. From small bespoke developments to multi-phase strategic sites, the Gryd model is repeatable on a per plot basis."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Option 2: Private-Wire Microgrids"
+    },
+    {
+      "_type": "h4",
+      "text": "What Is a Private-Wire Microgrid for New-Build Housing?"
+    },
+    {
+      "_type": "para",
+      "text": "A private-wire microgrid is a self-contained energy network that generates, stores, and distributes electricity within a single development. Rather than each home connecting independently to the national grid, the entire site operates as a coordinated energy system with shared infrastructure."
+    },
+    {
+      "_type": "para",
+      "text": "SNRG is the leading provider of funded microgrids for UK housing developments."
+    },
+    {
+      "_type": "h4",
+      "text": "How Does SNRG’s SmartGrid Work?"
+    },
+    {
+      "_type": "para",
+      "text": "SNRG designs, funds, builds, and operates a dedicated microgrid across an entire development. The system can include:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Rooftop solar panel arrays across all homes",
+        "Communal battery storage (shared across the development)",
+        "Low-voltage private distribution network",
+        "EV charging infrastructure",
+        "Heat pump integration",
+        "Intelligent energy management, metering, and billing",
+        "Grid connection and back-up power supply"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "SNRG funds the solar, storage, and distribution infrastructure. Residents sign long-term energy supply contracts and benefit from lower, locally generated electricity. The developer pays no upfront cost for the energy infrastructure, and SNRG handles all operation, maintenance, and customer service."
+    },
+    {
+      "_type": "para",
+      "text": "Key projects:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Otterpool Park, Kent, 8,500-home garden town. One of the UK’s first planned all-electric new towns",
+        "Harwell Science and Innovation Campus, first UK science campus to install a commercial SmartGrid"
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "What Are the Advantages and Limitations of Microgrids?"
+    },
+    {
+      "_type": "para",
+      "text": "Advantages:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero CAPEX for the developer on energy infrastructure",
+        "Potential for significant long-term energy savings for residents",
+        "Holistic site-wide energy optimisation",
+        "Can include EV charging and heat pumps in the funded package",
+        "Revenue stream potential for landowners/master developers"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Limitations:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Scale requirement. Microgrids are most viable on large developments (typically 500+ homes). Smaller schemes may not justify the infrastructure investment",
+        "Complexity. Requires a private distribution network, adding planning, regulatory, and technical layers",
+        "Long procurement cycles. Site-wide agreements take time to negotiate, especially with multiple house builders on a single masterplan",
+        "Communal model. Individual homeowners do not own or control their own system. Energy is managed collectively and metered privately making is difficult to switch energy supplier or add your own renewables.",
+        "Limited provider market. Few companies offer this model at scale in the UK"
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "Who Should Consider a Private-Wire Microgrid?"
+    },
+    {
+      "_type": "para",
+      "text": "Microgrids are best suited to large-scale master-planned developments, garden villages, and new towns where a single landowner or master developer can negotiate a site-wide agreement. They are less practical for individual house builders working on smaller sites or phased developments."
+    },
+    {
+      "_type": "h3",
+      "text": "Option 3: Energy Service Contracts and Smart Home Integration"
+    },
+    {
+      "_type": "h4",
+      "text": "What Is Wondrwall’s Developer Offering?"
+    },
+    {
+      "_type": "para",
+      "text": "Wondrwall offers a smart Home Energy Management System (HEMS) for new-build homes. Their developer proposition, combines smart home automation with funded solar, battery storage, and EV charging hardware through an Energy Service Contract (ESC) model launched in March 2024."
+    },
+    {
+      "_type": "para",
+      "text": "The core of the offering is Wondrwall’s HEMS platform which incorporates a number of smart home devices such as light switches and thenmostsats to manage a homes energy consumption."
+    },
+    {
+      "_type": "h4",
+      "text": "How Does Wondrwall Work for House Builders?"
+    },
+    {
+      "_type": "para",
+      "text": "The developer purchases the Wondrwall HEMS at approximately £6,000 per home. This covers the smart home infrastructure: sensor-equipped light switches, home automation, heating and hot water control, and security features."
+    },
+    {
+      "_type": "para",
+      "text": "In return, Wondrwall supplies and maintains solar PV, battery storage and an EV charger at no additional cost to the developer."
+    },
+    {
+      "_type": "para",
+      "text": "The cost of the funded hardware is recovered through a fixed-price service charge attached to the property, paid by the homeowner. Wondrwall states the service charge is designed not to exceed the annual energy savings the system generates, so homeowners should be net positive from day one."
+    },
+    {
+      "_type": "para",
+      "text": "Wondrwall handles all energy management, maintenance, and system optimisation for the life of the contract."
+    },
+    {
+      "_type": "h4",
+      "text": "Battery PowrPlan for Existing Homes"
+    },
+    {
+      "_type": "para",
+      "text": "Separately, Wondrwall offers a battery-only subscription called Battery PowrPlan, targeted primarily at existing homeowners. No solar panels are required and the battery charges with cheap off-peak electricity that can be used during peak hours."
+    },
+    {
+      "_type": "h4",
+      "text": "What Are the Advantages and Limitations?"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "HEMS with smart light switches provide smart home differentiation",
+        "Solar, battery, and EV charger hardware funded at no cost to the developer beyond the £6,000 HEMS purchase",
+        "Integrated heating, hot water, and security automation appeals to tech-savvy buyers",
+        "Wondrwall claims homes sell up to three times faster than like-for-like properties"
+      ]
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Partial CAPEX for developers. The HEMS system (c. £6,000) must be purchased upfront, so this is not truly zero-CAPEX for the developer",
+        "Complexity for buyers. The proposition combines a HEMS purchase for the developer, a homeowner service charge, and smart home devices that can be harder to explain to buyers who are not tech-savvy",
+        "System lock-in. The Wondrwall HEMS is proprietary. Homeowners rely on Wondrwall for ongoing system management and cannot easily switch to alternative providers without replacing all light switches and other smart devices",
+        "Newer market entrant. Fewer completed large-scale deployments in the new-build sector compared to more established providers"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Option 4: Government Grants and Schemes"
+    },
+    {
+      "_type": "h4",
+      "text": "Are There Government Grants for Solar on New-Build Homes?"
+    },
+    {
+      "_type": "para",
+      "text": "Most UK government solar grants target existing homes, particularly those in fuel poverty or with poor energy performance. New-build homes are largely excluded from the major schemes because they are expected to meet modern building regulations at the point of construction."
+    },
+    {
+      "_type": "para",
+      "text": "However, several schemes are relevant to house builders, particularly those delivering social or affordable housing."
+    },
+    {
+      "_type": "h4",
+      "text": "Key Schemes for 2026"
+    },
+    {
+      "_type": "para",
+      "text": "The Warm Homes Plan (£15 billion, England)"
+    },
+    {
+      "_type": "para",
+      "text": "Announced in January 2026, this is the government’s flagship programme for home energy upgrades. It includes:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "£5 billion for free upgrades for low-income and fuel-poor households",
+        "£2 billion for interest-free or low-interest loans for all households",
+        "£2.7 billion for green mortgages and innovative finance",
+        "Targets tripling the number of homes with solar"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders: The loans and green mortgage programmes could help buyers afford homes with solar. The scheme primarily targets existing housing stock, but the green finance elements may benefit new-build purchasers."
+    },
+    {
+      "_type": "para",
+      "text": "Warm Homes: Social Housing Fund (England)"
+    },
+    {
+      "_type": "para",
+      "text": "Up to £7,500 per dwelling for social housing providers to install energy efficiency measures including solar. Runs until September 2028."
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders: Developers building affordable housing for registered providers (RPs) may benefit if the RP applies for funding. This does not directly fund the developer."
+    },
+    {
+      "_type": "para",
+      "text": "Community Energy Fund (up to £1 billion)"
+    },
+    {
+      "_type": "para",
+      "text": "Announced in February 2026, this is the largest public investment in community energy in UK history. Funding supports locally owned renewable energy projects."
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders: Developments designed with community energy infrastructure could attract funding, though the application process targets community organisations rather than commercial developers. There are a few developers that have set up community owned management companies which include communal energy infrastructure as a way to secure some funding."
+    },
+    {
+      "_type": "para",
+      "text": "ECO4 (England, Scotland, Wales)"
+    },
+    {
+      "_type": "para",
+      "text": "Ends December 2026. Provides fully funded solar for electrically heated homes where residents receive qualifying benefits. Over 47,000 homes received solar through ECO4 in its first three years."
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders: Minimal for new builds. ECO4 targets existing housing stock with poor energy performance."
+    },
+    {
+      "_type": "para",
+      "text": "0% VAT on Solar (UK-wide)"
+    },
+    {
+      "_type": "para",
+      "text": "All solar panel installations benefit from 0% VAT, saving approximately £565-£2,260 per installation. Applies automatically. Currently set to expire 31 March 2027 but widely expected to be extended."
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders: Reduces cost whether self-funding or passing costs to buyers."
+    },
+    {
+      "_type": "h4",
+      "text": "The Bottom Line on Government Funding"
+    },
+    {
+      "_type": "para",
+      "text": "Government grants are not a reliable route for house builders to fund solar at scale. Most schemes target existing homes, have strict eligibility criteria, and are oversubscribed. Developers building market-sale housing will need to look to private-sector solutions."
+    },
+    {
+      "_type": "h3",
+      "text": "Option 5: Green Mortgages and Developer Finance"
+    },
+    {
+      "_type": "h4",
+      "text": "Can Solar Be Funded Through Green Mortgages?"
+    },
+    {
+      "_type": "para",
+      "text": "Green mortgages offer preferential interest rates or additional borrowing capacity for energy-efficient homes. Several major UK lenders now offer products that recognise higher EPC ratings, and the Warm Homes Plan includes £2.7 billion earmarked for green mortgages and innovative finance, signalling significant expansion of these products."
+    },
+    {
+      "_type": "para",
+      "text": "The theory is straightforward: a home with solar and battery achieves a higher EPC rating, which qualifies buyers for a green mortgage with a lower interest rate. The lower rate increases the buyer’s borrowing capacity, which in turn allows the developer to recover the cost of the renewable technology through a higher sale price."
+    },
+    {
+      "_type": "h4",
+      "text": "How it works for developers:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Developer funds solar and battery installation as part of the build cost, adding £5,000-£10,000+ per plot",
+        "The higher EPC rating qualifies buyers for green mortgage products with preferential rates",
+        "The lower interest rate increases the buyer’s maximum borrowing amount, creating headroom to absorb the house price premium",
+        "The developer prices the renewable technology into the sale price, aiming to recover the additional CAPEX"
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "The key dependency: mortgage provider availability and buyer eligibility"
+    },
+    {
+      "_type": "para",
+      "text": "This model only works if the right mortgage products exist and the buyer qualifies for them. Green mortgage availability varies significantly between lenders. Not all lenders offer green products, criteria differ between those that do, and the size of the rate discount (and therefore the additional borrowing it unlocks) varies. Buyers must individually qualify based on their income, deposit, and credit profile, meaning the developer cannot guarantee that every purchaser will access the preferential terms needed to support a higher sale price."
+    },
+    {
+      "_type": "h4",
+      "text": "Limitations and risks for developers:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Full CAPEX exposure. The developer carries the entire hardware cost during construction with no guarantee of recovery through the sale price",
+        "Price premium risk. If the local market does not support a higher sale price, or if buyers cannot access green mortgage products, the developer absorbs the cost as a margin reduction. In a soft market, this risk is amplified",
+        "Inconsistent buyer eligibility. On a mixed development, some buyers will qualify for green mortgages and others will not. The developer must decide whether to price all homes with a premium (risking slower sales on ineligible plots) or absorb the cost selectively",
+        "No ongoing support. Once the home is sold, the buyer owns the solar and battery system outright. They are responsible for maintenance, monitoring, inverter replacement, and eventual end-of-life costs. Without a managed service, system performance can degrade over time",
+        "Limited lender engagement. While the Warm Homes Plan signals government intent to expand green finance, the market for new-build-specific green mortgages remains immature. Developers cannot yet rely on consistent, widespread availability"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Option 6: Self-Funded Solar by the Developer"
+    },
+    {
+      "_type": "h4",
+      "text": "Should House Builders Fund Solar Themselves?"
+    },
+    {
+      "_type": "para",
+      "text": "Self-funding means the developer purchases and installs solar and battery systems as part of the standard build specification, absorbing the cost or passing it to buyers through the sale price."
+    },
+    {
+      "_type": "para",
+      "text": "Typical costs per home:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Solar PV system (3 to 4 kWp): £4,000-£6,000",
+        "Battery storage (5 to 10 kWh): £2,000-£4,000",
+        "Inverter and installation: £1,000-£2,000",
+        "Total: £7,000-£12,000 per plot"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "When self-funding makes sense:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Strong margins that can absorb hardware costs",
+        "Premium developments where buyers expect solar as standard",
+        "Sites where the developer wants full control over specification",
+        "Small developments where third-party models may not be available"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "When self-funding is problematic:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Volume house building where margins are tight",
+        "Affordable housing where sale prices are constrained",
+        "Developments where the cost would price out target buyers",
+        "Builders who lack in-house expertise for solar procurement and warranty management"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Option 7: Energy Supplier Tariff Partnerships"
+    },
+    {
+      "_type": "h4",
+      "text": "What Are Energy Supplier Tariff Partnerships for New-Build Homes?"
+    },
+    {
+      "_type": "para",
+      "text": "Two major energy suppliers now offer branded tariff programmes that developers can pair with self-funded solar. These are not funded models. The developer still pays for all hardware. But by oversizing the solar and battery specification beyond standard FHS requirements, developers can offer buyers a headline energy deal as a sales incentive."
+    },
+    {
+      "_type": "h4",
+      "text": "Octopus Zero Bills"
+    },
+    {
+      "_type": "para",
+      "text": "Octopus Energy’s Zero Bills programme guarantees homeowners pay £0 on their energy bills for up to ten years (with some restrictions including a fair usage policy and the exclusion of EV charging that is billed separately). In return, the developer must fund a specification that goes well beyond baseline FHS compliance."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Homes must be all-electric with a heat pump, oversized solar array, and home battery",
+        "Octopus’s Kraken platform manages the battery, EV charger, and heat pump to balance generation and consumption",
+        "The home must generate more energy than it consumes annually",
+        "Octopus states the net additional material cost for a typical 90m² home can be as little as £4,860 above FHS baseline, though total developer cost including all hardware typically reaches c. £20,000 per plot",
+        "Octopus handles all smart energy management and provides the zero-bills guarantee to homeowners."
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "E.ON Next Lower Bills, Built In (LBBI)"
+    },
+    {
+      "_type": "para",
+      "text": "The more recent E.ON Next Lower Bills, Built In programme takes a different approach. Rather than promising zero bills, it offers homeowners a fixed electricity bill of £25 per month, powered by solar, battery, and smart energy management."
+    },
+    {
+      "_type": "para",
+      "text": "E.ON has not published formal eligibility criteria, but based on the Avalon Grove pilot and their public statements, the following requirements apply:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "The developer must fund and install rooftop solar panels, a home battery, and E.ON’s Home Energy Management System (HEMS) at an estimated cost of £15-£20k per plot",
+        "Homes must have sufficient roof area for the proposed solar PV spec and space for a battery",
+        "Installation must be carried out by Eco2Solar, E.ON’s in-house installer. The developer cannot use its own workforce or contract their own installer services.",
+        "E.ON must handles all energy management for the homeowner to qualify."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "E.ON explicitly positions LBBI as more accessible than “zero bills” programmes, noting it does not require oversized systems or large roof areas."
+    },
+    {
+      "_type": "h4",
+      "text": "How Do These Compare to Zero-CAPEX Models?"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Gryd (zero-CAPEX): Developer Cost £0; Home Owner Bill Fixed subscription (£70/month for a typical 3 bed); System Ownership Gryd; Maintenance Responsibility Gryd (25-year gurantee)",
+        "Octopus Zero Bills: Developer Cost c. £20,000/plot; Home Owner Bill £0 for 5 to 10 years; System Ownership Homeowner; Maintenance Responsibility Homeowner",
+        "E.ON Next LBBI: Developer Cost c. £15,000-£20,000/plot; Home Owner Bill £25/month fixed; System Ownership Homeowner; Maintenance Responsibility Homeowner"
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "What Do These Programmes Mean for Developers?"
+    },
+    {
+      "_type": "para",
+      "text": "For developers with strong margins and a premium product positioning, these energy supplier partnerships can be a powerful sales tool. The “zero bills” or “£25/month” headline is compelling for marketing and can accelerate sales on the right scheme."
+    },
+    {
+      "_type": "para",
+      "text": "However, the financial commitment is significant:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Both programmes require the developer to fund all hardware at an elevated specification, at around £15,000-£20,000 per plot",
+        "On a 100-home site, that represents £1.5-£2 million of additional CAPEX compared to a zero-CAPEX model",
+        "The developer must either absorb this cost within existing margins or pass it to buyers as a house price premium",
+        "If the market does not support a premium, or if sales slow, the developer bears the full cost with no mechanism to recover it"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Developers considering either programme should weigh whether the marketing benefit justifies the margin impact, particularly in a market where affordability is already under pressure."
+    },
+    {
+      "_type": "h4",
+      "text": "What Do These Programmes Mean for Homeowners?"
+    },
+    {
+      "_type": "para",
+      "text": "The headline offers are attractive, but buyers should understand three key trade-offs."
+    },
+    {
+      "_type": "para",
+      "text": "Maintenance risk. The homeowner owns the system outright and is responsible for all repair and replacement costs. If the system goes offline, tariff eligibility is suspended until the issue is resolved, leaving the homeowner on standard electricity rates while funding repairs."
+    },
+    {
+      "_type": "para",
+      "text": "House price premium may erode savings. A £20,000 price premium on a Zero Bills home, against a typical annual energy bill of c. £1,500, means the homeowner would not recover the additional cost within the 10-year £0 bills guarantee. Octopus has indicated they may extend the guarantee period, but this is not confirmed."
+    },
+    {
+      "_type": "para",
+      "text": "Upside exists, but only outside the partner tariff. The oversized systems can generate more electricity than the home consumes, creating opportunities for export income and grid flexibility revenue. However, while on the partner tariff, the supplier captures this value. To access it, homeowners would need to leave Zero Bills or LBBI, switch to a supplier with a competitive export rate, and join a flexibility aggregation platform, giving up the headline guarantee in exchange for potentially higher returns."
+    },
+    {
+      "_type": "h3",
+      "text": "Option 8: Community and Communal Energy Models"
+    },
+    {
+      "_type": "h4",
+      "text": "What Are Communal Generation and Storage Options?"
+    },
+    {
+      "_type": "para",
+      "text": "Beyond individual rooftop systems, some developments use shared renewable energy infrastructure. These models are gaining traction, supported by £1 billion in new government community energy funding."
+    },
+    {
+      "_type": "para",
+      "text": "Communal solar arrays:"
+    },
+    {
+      "_type": "para",
+      "text": "Shared solar installations (e.g. on apartment blocks, community buildings, or ground-mounted arrays) that distribute energy across multiple homes. Can be funded by community energy organisations, developers, or third-party investors."
+    },
+    {
+      "_type": "para",
+      "text": "Communal battery storage:"
+    },
+    {
+      "_type": "para",
+      "text": "A single large battery serving multiple homes, optimising energy use across the development. The UK’s first community-owned solar battery is now operational at Ray Valley Solar Park in Oxfordshire, and similar models are being applied to housing developments."
+    },
+    {
+      "_type": "para",
+      "text": "Peer-to-peer energy trading:"
+    },
+    {
+      "_type": "para",
+      "text": "Emerging models allow homes within a development to trade surplus solar energy with neighbours. Early projects like the Loughborough Estate in Brixton have demonstrated the concept for social housing."
+    },
+    {
+      "_type": "para",
+      "text": "Relevance for house builders:"
+    },
+    {
+      "_type": "para",
+      "text": "Communal models work best on larger sites with mixed-use elements. They add complexity compared to per-plot solutions but can deliver cost efficiencies at scale and strong marketing narratives around community and sustainability."
+    },
+    {
+      "_type": "h3",
+      "text": "How to Choose the Right Model for Your Development"
+    },
+    {
+      "_type": "para",
+      "text": "The best option depends on your development’s scale, target market, financial priorities, and timeline."
+    },
+    {
+      "_type": "h4",
+      "text": "Decision Framework"
+    },
+    {
+      "_type": "spec",
+      "rows": [
+        {
+          "term": "Eliminating all solar CAPEX from your build cost",
+          "detail": "Zero-CAPEX solar subscription (Gryd)"
+        },
+        {
+          "term": "Site-wide energy infrastructure on a large masterplan",
+          "detail": "Private-wire microgrid (SNRG)"
+        },
+        {
+          "term": "Smart home technology as a sales differentiator",
+          "detail": "Battery subscription / ESC (Wondrwall)"
+        },
+        {
+          "term": "Building social or affordable housing",
+          "detail": "Government schemes + funded solar model"
+        },
+        {
+          "term": "Full control over specification and ownership",
+          "detail": "Self-funded solar"
+        },
+        {
+          "term": "A headline “zero bills” or “£25/month” marketing message",
+          "detail": "Energy supplier tariff (Octopus Zero Bills / E.ON LBBI)"
+        },
+        {
+          "term": "Maximising buyer affordability with no price premium",
+          "detail": "Zero-CAPEX solar subscription (Gryd)"
+        },
+        {
+          "term": "Deploying to every home type, including north-facing",
+          "detail": "Zero-CAPEX solar subscription (Gryd)"
+        }
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "_type": "h4",
+      "text": "Is solar mandatory on new-build homes?"
+    },
+    {
+      "_type": "para",
+      "text": "From 2028, the Future Homes Standard requires on-site renewable electricity generation on the majority of new homes in England. While the regulation does not specifically name solar PV, rooftop solar is the most practical and affordable route to compliance for most developments."
+    },
+    {
+      "_type": "h4",
+      "text": "How much does solar cost per plot for a new-build home?"
+    },
+    {
+      "_type": "para",
+      "text": "A typical solar and battery system for a new-build home costs £7,000-£12,000 depending on system size and specification. With a zero-CAPEX model like Gryd, the developer pays nothing. The hardware cost is funded by Gryd and recovered through a homeowner subscription."
+    },
+    {
+      "_type": "h4",
+      "text": "Do solar subscriptions affect mortgage approvals?"
+    },
+    {
+      "_type": "para",
+      "text": "No. Gryd’s lease structure is aligned with UK Finance guidance and is accepted by over 300 banks and all major mortgage lenders. The subscription does not affect the buyer’s mortgage application."
+    },
+    {
+      "_type": "h4",
+      "text": "Can funded solar be deployed on all house types?"
+    },
+    {
+      "_type": "para",
+      "text": "With individual rooftop models like Gryd, solar can be deployed across all home types and orientations, including apartments, terraces, and north-facing plots. Microgrid models may be more flexible on orientation since energy is shared across the site."
+    },
+    {
+      "_type": "h4",
+      "text": "What happens when a homeowner sells a property with a solar subscription?"
+    },
+    {
+      "_type": "para",
+      "text": "The subscription transfers automatically to the new owner. With Gryd, the homeowner also has the option to buy out the system at any time at a predetermined, fully amortising cost."
+    },
+    {
+      "_type": "h4",
+      "text": "How much can homeowners save with funded solar?"
+    },
+    {
+      "_type": "para",
+      "text": "Typical savings depend on system size, energy consumption, and tariff. Gryd systems supply 70%+ of a home’s electricity, delivering savings from day one compared to grid-only energy. The fixed, inflation-proof subscription means homeowners are protected from future energy price rises."
+    },
+    {
+      "_type": "h4",
+      "text": "What SAP improvement does funded solar provide?"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s systems typically provide a 10 to 15 point SAP uplift, resulting in an EPC improvement of at least one level. This helps developers meet Part L and FHS targets without costly changes to the building fabric."
+    },
+    {
+      "_type": "h3",
+      "text": "The Future Homes Standard Timeline"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "March 2026, FHS published, confirming solar and heat pump requirements for new homes",
+        "March 2027, March 2028, Transition period. Developers encouraged to adopt early",
+        "March 2028, FHS takes full effect. On-site renewable generation required on most new homes"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "House builders who adopt funded solar now gain a competitive advantage: lower build costs, differentiated homes, and proven compliance ahead of the deadline."
+    },
+    {
+      "_type": "h3",
+      "text": "Get a Free Site Assessment"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd works with developers of all sizes across the UK. Whether you are planning your first solar-equipped development or scaling across your portfolio, a free site assessment will show you exactly what Gryd can deliver on your next scheme."
+    },
+    {
+      "_type": "para",
+      "text": "What the assessment includes:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "bespoke solar and battery system design for each plot",
+        "Build cost saving",
+        "Homeowner bill savings modelling",
+        "Estimated SAP and EPC impact analysis",
+        "Full financial summary with zero obligation"
+      ]
+    }
+  ],
+  "sap-scores-versus-real-energy-use": [
+    {
+      "_type": "lead",
+      "text": "As energy standards tighten and the UK moves toward the Future Homes Standard, the way new homes are assessed, and how they actually perform, is coming under closer scrutiny."
+    },
+    {
+      "_type": "para",
+      "text": "SAP scores remain the primary benchmark for compliance. They shape design decisions and are the basis for EPC ratings, which are the industry-accepted proxy for a home’s energy performance."
+    },
+    {
+      "_type": "para",
+      "text": "But SAP does not account for total energy demand, and as homes become more efficient and more electrified, the gap between what’s used for a SAP assessment and real-world energy use is widening."
+    },
+    {
+      "_type": "para",
+      "text": "What SAP Measures, And What It Doesn’t"
+    },
+    {
+      "_type": "para",
+      "text": "The Standard Assessment Procedure (SAP) is designed to assess the energy performance of new homes against their regulated energy demand, the elements of a home’s energy use that can be controlled through building design and specification. These include:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Space heating",
+        "Hot water",
+        "Mechanical ventilation",
+        "Fixed lighting"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "When SAP was first introduced, regulated energy accounted for the majority of household demand, typically between 70% and 90%. As building standards have improved, that balance has shifted. Better insulation, increased airtightness and more efficient heating systems have reduced regulated energy demand and driven higher EPC ratings across new build housing. Meanwhile, the demand from unregulated energy sources has increased significantly, and continues to do so. It is projected that overall energy demand in the UK will increase by 50% by 2035."
+    },
+    {
+      "_type": "para",
+      "text": "Today, regulated energy typically accounts for closer to 40 to 60% of total demand. The remainder, referred to as unregulated energy, sits outside the scope of SAP altogether."
+    },
+    {
+      "_type": "para",
+      "text": "Unregulated energy covers a growing share of electricity use within the home, including:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Appliances",
+        "Consumer electronics",
+        "Plug loads and small power",
+        "Device and EV charging"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "These loads are not assessed under SAP because they are driven by occupant behaviour rather than building design. But they now account for a substantial and increasing share of total household demand."
+    },
+    {
+      "_type": "para",
+      "text": "Why This Matters for New Build Housing"
+    },
+    {
+      "_type": "para",
+      "text": "SAP remains a necessary and valuable tool for developers. It provides a consistent framework for compliance and enables comparison across schemes. But across the sector, energy demand is often judged using SAP alone, without accounting for unregulated loads."
+    },
+    {
+      "_type": "para",
+      "text": "Using SAP as a proxy for total energy demand means relying on a metric that only captures part of the picture. In practice, it can result in:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Underestimating how much electricity homes will actually consume",
+        "Designing renewable energy systems around partial demand profiles",
+        "Missing opportunities to improve long-term energy performance for occupants"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "At a glance, this can appear to be a homeowner issue rather than a developer concern. But the implications are broader."
+    },
+    {
+      "_type": "para",
+      "text": "As energy costs remain volatile and scrutiny of building performance increases, the gap between predicted and actual energy use is becoming more visible. For housing associations and local authorities in particular, this can translate into higher running costs for residents, increased pressure around fuel poverty, and a disconnect between expected and realised performance."
+    },
+    {
+      "_type": "para",
+      "text": "Reducing reliance on the grid through solar can provide a meaningful buffer, particularly for the lowest-income households, against volatile and rising electricity prices that are entirely beyond their control. By offering greater certainty over monthly energy expenditure, solar enables more effective financial planning; in many cases, even a 10% rise in energy costs can mark the tipping point between household stability and financial hardship."
+    },
+    {
+      "_type": "para",
+      "text": "For private developers, there are also considerations. Energy performance is increasingly part of the sales narrative, and buyers are more aware of running costs than they were even a few years ago. Where real-world energy use does not align with expectations, it can affect customer satisfaction, brand perception, and, over time, the credibility of performance claims."
+    },
+    {
+      "_type": "para",
+      "text": "More fundamentally, as homes become fully electrified, electricity demand is no longer a secondary consideration, it is central to how the home functions."
+    },
+    {
+      "_type": "para",
+      "text": "Implications for Solar PV Deployment"
+    },
+    {
+      "_type": "para",
+      "text": "This becomes particularly important when considering the role of solar in new developments."
+    },
+    {
+      "_type": "para",
+      "text": "Solar PV contributes directly to reducing grid electricity consumption. But its effectiveness depends on how closely system design aligns with actual household demand."
+    },
+    {
+      "_type": "para",
+      "text": "If solar is sized only against the regulated energy captured in SAP assessments, systems are likely to be too small to meaningfully offset total electricity use, limiting bill savings and reducing overall system value."
+    },
+    {
+      "_type": "para",
+      "text": "As electricity demand increases, driven by heat pumps, EV charging and general appliance use, that gap becomes more pronounced. Solar has the potential to offset a significant share of this demand, but only if it is designed with the full load profile in mind."
+    },
+    {
+      "_type": "para",
+      "text": "Fitting an improperly sized system not only limits that potential but also creates a downstream burden for the homeowner; in many cases, installing an optimally sized system later would require removing the inadequate one entirely. As consumers become more savvy about what an optimal solar setup looks like, specifying a system that merely meets minimum compliance standards risks becoming a drawback, particularly when homeowners are faced with the high costs of replacing or expanding an underperforming installation."
+    },
+    {
+      "_type": "para",
+      "text": "From SAP to the Home Energy Model (HEM)"
+    },
+    {
+      "_type": "para",
+      "text": "The planned introduction of the Home Energy Model (HEM) signals a shift in how energy performance will be assessed in UK housing. HEM is due to replace SAP as the government’s primary methodology and is expected to be introduced alongside the Future Homes Standard."
+    },
+    {
+      "_type": "para",
+      "text": "Unlike SAP, which focuses on regulated energy, HEM is designed to provide a more detailed and flexible assessment of how homes use energy in practice, including half-hourly energy modeling that gives a more granular view of a home’s energy consumption throughout the day. It is intended to better reflect real-world performance, particularly as homes become more electrified."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, SAP will remain the immediate framework for compliance. But the direction of travel is clear. As HEM is adopted, the industry will move toward a more complete understanding of energy use, one that goes beyond regulated demand alone."
+    },
+    {
+      "_type": "para",
+      "text": "From Compliance to Real-World Performance"
+    },
+    {
+      "_type": "para",
+      "text": "SAP will remain central to compliance in the near term. But as homes become more electrified, and expectations from regulators, partners and end buyers evolve, it is becoming a less complete basis for design decisions."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, this means moving beyond regulated energy when specifying systems, particularly solar, and designing systems around how homes are actually used."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd works with developers across the UK to support this approach, helping integrate optimally-sized solar and battery systems that align with real household demand."
+    },
+    {
+      "_type": "para",
+      "text": "If you are reviewing your energy strategy or preparing for the upcoming regulatory changes, get in touch to discuss how a more complete view of demand can be applied across your developments."
+    }
+  ],
+  "future-homes-standard-differentiate": [
+    {
+      "_type": "lead",
+      "text": "The Future Homes Standard has been published. From 2028, every new home built in England must include on-site renewable generation, low-carbon heating, and meet significantly tighter fabric efficiency standards."
+    },
+    {
+      "_type": "para",
+      "text": "This raises an uncomfortable question for developers: if everyone must comply, how do you compete?"
+    },
+    {
+      "_type": "para",
+      "text": "Compliance is the floor. Differentiation is everything above it."
+    },
+    {
+      "_type": "h3",
+      "text": "The commoditisation trap"
+    },
+    {
+      "_type": "para",
+      "text": "When a regulatory requirement applies universally, the temptation is to treat it as a box-ticking exercise. Install the minimum solar, fit the cheapest heat pump, hit the compliance score and move on. Many developers will do exactly this."
+    },
+    {
+      "_type": "para",
+      "text": "The problem is that buyers and planners are getting more sophisticated. They can tell the difference between a home designed for real-world energy performance and one that scraped through compliance. In a market where every home must meet the FHS, the developers who went further will stand out."
+    },
+    {
+      "_type": "para",
+      "text": "The question is not whether to differentiate, it’s where."
+    },
+    {
+      "_type": "h3",
+      "text": "Five ways to differentiate above the FHS baseline"
+    },
+    {
+      "_type": "h4",
+      "text": "1. Size the solar system for real energy demand, not minimum compliance"
+    },
+    {
+      "_type": "para",
+      "text": "The FHS sets a floor, not a ceiling. Under the published standard, on-site renewable electricity generation is a functional requirement of Building Regulations, not just part of the notional building specification. You cannot trade it away with better insulation or a more efficient heat pump. The sizing formula is straightforward: 40% of the home’s ground floor area, divided by 4.5, gives the required system size in kWp. For a typical 3-bed semi, that is roughly 3.5 to 4 kWp."
+    },
+    {
+      "_type": "para",
+      "text": "But the compliance model is based on regulated energy only: heating, hot water, ventilation and lighting. It does not capture the full energy demand of a modern all-electric home, which includes EV charging, appliances, and everything else you plug into your sockets."
+    },
+    {
+      "_type": "para",
+      "text": "A home with a larger, well-designed solar system will generate meaningfully more value for the homebuyer, lower bills, greater energy independence, and resilience against future electricity price rises. This is a credible, quantifiable point of difference."
+    },
+    {
+      "_type": "h4",
+      "text": "2. Add battery storage"
+    },
+    {
+      "_type": "para",
+      "text": "Solar without storage is half a solution. A battery allows homeowners to use the energy thats generated during the day in the evening when demand peaks, rather than exporting it to the grid at a low rate and buying it back at a higher one."
+    },
+    {
+      "_type": "para",
+      "text": "For all-electric homes with heat pumps and EV chargers, the economics of battery storage are compelling. When the Home Energy Model (HEM) replaces SAP as the compliance methodology, its 30-minute interval modelling will directly reward self-consumption, making battery storage even more valuable in compliance terms. Very few minimum-FHS homes will include it. For developers who do include it, it becomes a tangible selling point."
+    },
+    {
+      "_type": "h4",
+      "text": "3. Compete on system quality and warranty"
+    },
+    {
+      "_type": "para",
+      "text": "Not all solar panels, inverters or heat pumps are equal. A panel installed by the lowest-cost subcontractor with a 10-year warranty is not the same product as a premium system with a 25-year performance guarantee and active monitoring."
+    },
+    {
+      "_type": "para",
+      "text": "Homebuyers increasingly understand this, particularly repeat buyers and those who have lived in energy-inefficient homes. Specifying quality components and communicating that clearly in your sales process is a differentiator that costs relatively little in proportional terms."
+    },
+    {
+      "_type": "h4",
+      "text": "4. Give homeowners visibility of their energy use"
+    },
+    {
+      "_type": "para",
+      "text": "The best-performing energy systems are ones homeowners actually understand and engage with. Smart monitoring, an app that shows generation, consumption, battery state and grid import in real time, transforms energy from an abstract utility bill into something tangible and engaging."
+    },
+    {
+      "_type": "para",
+      "text": "Developers who provide this as standard are building a product experience, not just a building. That experience lives with the homeowner for decades and drives word-of-mouth recommendation."
+    },
+    {
+      "_type": "h4",
+      "text": "5. Remove the ownership friction entirely"
+    },
+    {
+      "_type": "para",
+      "text": "For many homebuyers, the residual concern about solar and battery systems is not the technology, it’s the responsibility. What happens when something breaks? Who maintains it? What does it cost to replace?"
+    },
+    {
+      "_type": "para",
+      "text": "A subscription or lease model, where the system is funded, specified and managed by a third party at no upfront cost, removes all of that friction. The homebuyer gets the benefits of the technology without the liability of ownership. For developers, it removes capital cost and operational complexity from the development entirely."
+    },
+    {
+      "_type": "para",
+      "text": "This is the model Gryd was built to deliver."
+    },
+    {
+      "_type": "h3",
+      "text": "The window is closing"
+    },
+    {
+      "_type": "para",
+      "text": "Today, FHS-ready homes are exceptional. They stand out on planning applications, in sales suites and in press coverage. By March 2028, when the transition period ends, they will be the norm."
+    },
+    {
+      "_type": "para",
+      "text": "The developers who use the next 12 months to build genuine expertise in design, supply chain, buyer communication and energy system quality will enter the post-FHS era with a head start that is very difficult for late movers to catch up with."
+    },
+    {
+      "_type": "para",
+      "text": "Don’t let compliance become your ceiling. Use it as a launchpad."
+    }
+  ],
+  "how-much-solar-do-you-need": [
+    {
+      "_type": "lead",
+      "text": "The Future Homes Standard is published. On-site renewables (effectively solar) is now a functional requirement of the Building Regulations, not just part of the notional building specification. Every new home approved in England must include on-site renewable electricity generation from 24 March 2027."
+    },
+    {
+      "_type": "para",
+      "text": "But knowing you need solar and knowing how much solar you need are two different things."
+    },
+    {
+      "_type": "para",
+      "text": "This guide walks through the confirmed sizing formula, the key variables that affect real-world system size, and why designing to the minimum compliance threshold is likely to still leave homebuyers underserved."
+    },
+    {
+      "_type": "h3",
+      "text": "What the FHS requires: the confirmed baseline"
+    },
+    {
+      "_type": "para",
+      "text": "Approved Document L 2026 sets out the sizing formula (Equation 5.1):"
+    },
+    {
+      "_type": "para",
+      "text": "Required kWp = panel area × panel efficiency"
+    },
+    {
+      "_type": "para",
+      "text": "Or in the regulation’s notation: PPDWELLING = APVD × EFFPV"
+    },
+    {
+      "_type": "para",
+      "text": "Where:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "PPDWELLING is the required installed peak power (in kWp) for the home",
+        "APVD is the area of roof covered by solar panels, which must be at least 40% of the ground floor area",
+        "EFFPV is the assumed panel efficiency: 0.22 kWp per m² (or higher)"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "The formula assumes panels face between south-east and south-west, on a 45-degree pitch, with no overshading."
+    },
+    {
+      "_type": "para",
+      "text": "A worked example: a typical 3-bed home with 50 m² of ground floor area needs at least 20 m² of panels (50 × 0.4). At 0.22 kWp/m², that gives a minimum system size of 4.4 kWp."
+    },
+    {
+      "_type": "h4",
+      "text": "Why the numbers are higher than you might expect"
+    },
+    {
+      "_type": "para",
+      "text": "The FHS updates the assumed panel efficiency from 6.5 m²/kWp (Part L 2021) to 4.5 m²/kWp. In the regulation’s terms, that’s 0.22 kWp per m² of panel. This reflects where commercially available panel technology already is: a standard 400W panel occupies about 1.7 to 1.8 m², delivering 0.22 to 0.24 kWp/m². The regulation has caught up with the market."
+    },
+    {
+      "_type": "para",
+      "text": "The combined effect of the new 40% ground floor area rule and the updated efficiency factor is significant. Take a typical 3-bed semi with a 50 m² ground floor. The formula gives 20 m² of panel area at 0.22 kWp/m², requiring a 4.4 kWp system. Had the old 6.5 m²/kWp factor been used instead, the same area would have required only 3.1 kWp. The difference is roughly 40% more installed capacity, driven entirely by the efficiency assumption."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, this translates directly into cost. Industry estimates put the solar-specific cost uplift at £5,000 to 10,000 per plot depending on house type and system size, making solar the single largest component of the overall FHS build cost increase."
+    },
+    {
+      "_type": "h4",
+      "text": "Two ways to comply"
+    },
+    {
+      "_type": "para",
+      "text": "The regulation gives developers two routes:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Route (a): Install panels covering at least 40% of the ground floor area at 0.22 kWp/m² (the standard route for most homes).",
+        "Route (b): Where the roof cannot accommodate 40% coverage (due to orientation, shading, or complex geometry), cover as much of the reasonably practicable roof area as possible at 0.22 kWp/m²."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Route (b) is the fallback, not a loophole. Developers must still install panels on whatever usable roof area is available."
+    },
+    {
+      "_type": "para",
+      "text": "Critically, solar is now a functional requirement of the Building Regulations. Under the previous rules, solar was part of the notional dwelling specification and could theoretically be traded away by improving other elements like insulation. That is no longer possible."
+    },
+    {
+      "_type": "para",
+      "text": "The removal of terrace averaging also means each home must individually meet solar requirements. A south-facing end-of-terrace can no longer compensate for a north-facing mid-terrace unit."
+    },
+    {
+      "_type": "h4",
+      "text": "The compliance methodology"
+    },
+    {
+      "_type": "para",
+      "text": "At FHS launch (24 March 2027), SAP 10.3 is the sole compliance methodology. SAP 10.3 credits solar generation based on standard annual yield calculations using the updated 4.5 m²/kWp factor, but does not granularly model self-consumption."
+    },
+    {
+      "_type": "para",
+      "text": "The Home Energy Model (HEM) becomes available via the centralised ECaaS platform no earlier than 3 months after launch. HEM models energy at 30-minute intervals, fundamentally changing how solar generation, self-consumption and battery storage are valued. SAP 10.3 and HEM will run in parallel for a minimum of 24 months, after which HEM is expected to become the sole methodology."
+    },
+    {
+      "_type": "h3",
+      "text": "The regulated vs. unregulated energy gap"
+    },
+    {
+      "_type": "para",
+      "text": "The most important thing most developers may not know about solar sizing: the HEM calculation, like SAP before it, is based on regulated energy only."
+    },
+    {
+      "_type": "para",
+      "text": "Regulated energy covers the consumption controllable by the building’s design: heating, hot water, mechanical ventilation and lighting. It does not include unregulated energy, appliances, TVs, computers, EV chargers and everything else plugged into a socket."
+    },
+    {
+      "_type": "para",
+      "text": "When SAP was introduced in the early 90’s, regulated energy represented 70 to 90% of a home’s total energy demand. Today, it represents 40 to 60%. The rest, the majority in many modern homes, sits entirely outside the compliance calculation."
+    },
+    {
+      "_type": "para",
+      "text": "What this means in practice: a solar system sized purely for HEM compliance may generate enough energy to satisfy the model, but not enough to make a material difference to the homebuyer’s real electricity bill."
+    },
+    {
+      "_type": "h3",
+      "text": "The key variables in solar sizing"
+    },
+    {
+      "_type": "para",
+      "text": "A proper solar sizing exercise for an FHS-compliant new-build should consider:"
+    },
+    {
+      "_type": "h4",
+      "text": "Roof area and orientation"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "South-facing roofs yield the highest annual generation, a south-facing pitch at 30 to 35° will outperform an east/west split by 15 to 25% for the same panel count.",
+        "East/west splits are common on pitched roofs in dense developments, they produce less per panel but spread generation more evenly across the day, which can improve self-consumption without battery storage.",
+        "Flat roofs offer flexibility but require ballasted mounting frames and may have different planning implications."
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "System capacity: applying Equation 5.1"
+    },
+    {
+      "_type": "para",
+      "text": "Using the published formula (APVD × 0.22 kWp/m²), assuming optimal SE-SW orientation at 45° with no overshading:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "A 2-bed terrace with ~35 to 45 m² ground floor area → APVD of ~14 to 18 m² → ~3.1 to 4.0 kWp",
+        "A 3-bed semi with ~45 to 55 m² ground floor area → APVD of ~18 to 22 m² → ~4.0 to 4.8 kWp",
+        "A 3-bed detached with ~55 to 70 m² ground floor area → APVD of ~22 to 28 m² → ~4.8 to 6.2 kWp",
+        "A 4-bed detached with ~70 to 90 m² ground floor area → APVD of ~28 to 36 m² → ~6.2 to 7.9 kWp"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "These are the minimum installed peak power figures under Equation 5.1. Actual panel count depends on the specific product used. A standard 400W panel at ~1.75 m² delivers ~0.23 kWp/m², comfortably exceeding the 0.22 kWp/m² threshold. Non-optimal orientation (east/west split, sub-optimal pitch, partial shading) does not change the required kWp, but it increases the annual generation shortfall that must be compensated for by additional capacity or alternative roof area under route (b)."
+    },
+    {
+      "_type": "h4",
+      "text": "Total energy demand: sizing beyond compliance"
+    },
+    {
+      "_type": "para",
+      "text": "A home designed for real-world FHS performance should model:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Heat pump consumption, typically 2,500 to 4,500 kWh/year depending on home size and fabric performance",
+        "Hot water, typically 1,500 to 2,500 kWh/year for a heat pump cylinder",
+        "Lighting and ventilation, typically 500 to 1,000 kWh/year",
+        "Unregulated demand (appliances, TV, home working), typically 1,500 to 3,000 kWh/year",
+        "EV charging, typically 2,000 to 4,000 kWh/year if the household has one EV"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "A well-specified 4 to 5 bedroom home with an EV could have a total annual demand of 10,000 to 14,000 kWh."
+    },
+    {
+      "_type": "para",
+      "text": "The real-world gap between what compliance requires and what buyers actually need is significant. Consider going beyond compliance to make a meaningful difference to the long term energy savings of you home buyers."
+    },
+    {
+      "_type": "h3",
+      "text": "Battery storage: the multiplier"
+    },
+    {
+      "_type": "para",
+      "text": "Adding battery storage changes the economics materially. A well-sized battery, typically 5 to 10 kWh for a family home, can increase solar self-consumption from ~30% to 60 to 80%. Instead of exporting cheap daytime solar and buying back expensive evening electricity, homeowners store and use their own generation."
+    },
+    {
+      "_type": "para",
+      "text": "For all-electric homes with heat pumps and EV chargers, the combination of appropriately sized solar and battery storage is the difference between a home that feels energy-efficient and one that actually is."
+    },
+    {
+      "_type": "h3",
+      "text": "The practical recommendation"
+    },
+    {
+      "_type": "para",
+      "text": "Design to the maximum solar coverage the roof geometry allows, not the minimum the compliance model requires. Model total energy demand including unregulated consumption and EV charging. Specify battery storage as standard to give your homes a real edge."
+    },
+    {
+      "_type": "para",
+      "text": "This is not gold-plating. It is designing homes that work for the people who live in them, and for developers who want their projects to stand out in a market where every new home nominally meets the same standard."
+    },
+    {
+      "_type": "para",
+      "text": "The FHS comes into force on 24 March 2027. Every home approved after that date must comply. Developers have a 12-month transition period to start construction for homes already approved, with all building work needing to commence by 24 March 2028. The time to get solar sizing right is now."
+    }
+  ],
+  "future-homes-standard-timeline": [
+    {
+      "_type": "lead",
+      "text": "The Future Homes Standard has been published. For house builders and developers, the most pressing question is not what the standard requires. It’s when it actually applies to you."
+    },
+    {
+      "_type": "para",
+      "text": "Here is a practical breakdown of the confirmed implementation timeline and what it means for projects at every stage."
+    },
+    {
+      "_type": "h3",
+      "text": "The headline date: 24 March 2027"
+    },
+    {
+      "_type": "para",
+      "text": "The Future Homes Standard comes into force on 24 March 2027 for non-higher-risk-building dwellings. Higher-risk buildings follow on 24 September 2027. From these dates, all new homes must comply with updated building regulations, mandating low-carbon heating (in practice, heat pumps), on-site renewable electricity generation (in practice, rooftop solar PV), and dramatically tighter fabric and ventilation standards."
+    },
+    {
+      "_type": "h3",
+      "text": "The transitional period: 12 months, no extensions"
+    },
+    {
+      "_type": "para",
+      "text": "The published standard confirms a 12-month transition period. Building work must have commenced by 24 March 2028 to use current Part L regulations. After that date, every new dwelling must comply with the FHS."
+    },
+    {
+      "_type": "para",
+      "text": "Key details from the published transitional arrangements:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "“Commenced” means real construction activity. Drainage and foundation work qualifies. Planning permission alone does not.",
+        "Individual building basis. Different homes on the same site may fall under different regulations depending on when each building’s work commenced. There is no site-wide exemption.",
+        "2013 transitional arrangements are sunsetted. No further extensions to legacy provisions.",
+        "No Regulation 26 relaxation. The government considered allowing developers to argue compliance was “not reasonable” on certain sites. They rejected this. There is no escape route."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "The transitional provisions operate per dwelling, not per phase or per site. Developers need to track commencement dates at individual building level."
+    },
+    {
+      "_type": "h3",
+      "text": "What the standard requires"
+    },
+    {
+      "_type": "para",
+      "text": "The published FHS introduces six headline requirements: mandatory on-site renewable electricity generation (in practice, solar PV, now a functional requirement not tradeable against other measures), a 75 to 80% carbon reduction target vs 2013 baseline, low-carbon heating only (gas boilers cannot comply), tighter fabric U-values across every building element, airtightness of 3 m³/(h·m²) requiring MVHR, and individual dwelling compliance with no terrace averaging."
+    },
+    {
+      "_type": "para",
+      "text": "Notably absent: battery storage, smart export capability, and any assessment of unregulated energy demand. The standard mandates on-site renewable generation but not storage, despite the new compliance methodology (HEM) directly rewarding self-consumption through 30-minute interval modelling."
+    },
+    {
+      "_type": "h3",
+      "text": "The HEM transition: a parallel timeline"
+    },
+    {
+      "_type": "para",
+      "text": "The compliance methodology transition is now confirmed with specific milestones:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "At FHS launch (March 2027): SAP 10.3 is the sole compliance methodology. SAP 10.3 replaces SAP 10.2 and uses the updated panel efficiency factor but does not granularly model self-consumption.",
+        "Three months or more after launch: The Home Energy Model (HEM) becomes available via the ECaaS platform, a centralised cloud API replacing multiple third-party SAP engines.",
+        "Minimum 24-month dual running: SAP 10.3 and HEM run in parallel. SAP 10.3’s minimum lifetime expires around mid-2029, at which point HEM is expected to become the sole methodology."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "HEM models energy at 30-minute intervals. This fundamentally changes how solar generation, self-consumption and battery storage are valued. Solar matched against actual demand profiles throughout the day is worth significantly more than flat annual yield calculations. HEM assessments take approximately 1 hour 40 minutes per dwelling (vs ~20 minutes for SAP), and missing data triggers punitive default values."
+    },
+    {
+      "_type": "h3",
+      "text": "What developers should do right now"
+    },
+    {
+      "_type": "para",
+      "text": "The 2027 deadline sounds distant. It is not. Here is why:"
+    },
+    {
+      "_type": "para",
+      "text": "Design lead times. A development that starts on site in March 2027 is being designed today. Retrofitting solar, heat pump and MVHR systems into designs not conceived for them is costly and sometimes impossible. The airtightness target of 3 m³/(h·m²) requires ducting integrated from design stage."
+    },
+    {
+      "_type": "para",
+      "text": "Cost planning. The published standard confirms an estimated 3 to 5% additional build cost over current Part L compliance. For a typical £250k-£350k new build, that is £7,500-£17,500 per dwelling. Solar PV alone represents £5,000-£10,000 per plot. Innovative solutions need to be sought to minimise these costs. For solar, Gryd can eliminate this additional cost burden."
+    },
+    {
+      "_type": "para",
+      "text": "Supply chain. Heat pump, solar and MVHR installation capacity is finite. Developers who secure supply chain relationships now will have an advantage over those competing for capacity in late 2028."
+    },
+    {
+      "_type": "para",
+      "text": "Planning. If you have sites where planning has not been submitted, designing to FHS from the outset avoids costly revisions later and demonstrates ESG commitment increasingly valued by planning authorities."
+    },
+    {
+      "_type": "para",
+      "text": "Compliance expertise. HEM is more complex than SAP. Energy consultants will need time to build capability on the new methodology. Developers who engage early will get better advice and avoid bottlenecks."
+    },
+    {
+      "_type": "h3",
+      "text": "The bottom line"
+    },
+    {
+      "_type": "para",
+      "text": "The FHS is published. 24 March 2027 is the statutory deadline. 24 March 2028 is the last date to commence building work under current regulations. There are no exemptions, no averaging and no escape routes."
+    },
+    {
+      "_type": "para",
+      "text": "Developers who treat this as a compliance event will meet the minimum. Those who treat it as a design and commercial opportunity will build better homes and stronger businesses."
+    }
+  ],
+  "future-homes-standard-solar-mandate": [
+    {
+      "_type": "lead",
+      "text": "The UK government has published the long-awaited Future Homes Standard (FHS), a major policy shift that will define how new homes are designed, built and powered."
+    },
+    {
+      "_type": "para",
+      "text": "After years of consultation, the direction is now clear. All new homes will be required to operate with low-carbon heating systems, and the vast majority will need to include rooftop solar panels as standard. For housebuilders, this marks a change in how homes generate and use energy, and a move toward fully electrified, low-carbon housing."
+    },
+    {
+      "_type": "para",
+      "text": "This guide outlines what the Future Homes Standard includes, what the on-site renewable energy generation requirement means in practice, and how developers can prepare."
+    },
+    {
+      "_type": "para",
+      "text": "What Is the Future Homes Standard?"
+    },
+    {
+      "_type": "para",
+      "text": "The Future Homes Standard is the UK government’s framework for ensuring that all new homes are net zero-ready. It introduces a broad set of measures aimed at improving overall energy performance and future-proofing new homes."
+    },
+    {
+      "_type": "para",
+      "text": "Homes delivered under the standard are expected to produce 75% fewer greenhouse gas emissions than those built under the 2013 Building Regulations. This will be achieved primarily through:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "On-site renewable energy generation on most new homes (in practice, rooftop solar PV)",
+        "Low-carbon heating systems, such as air source heat pumps, or connection to low-carbon heat networks",
+        "Stronger building fabric requirements, including improved airtightness"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "The policy is designed to reduce reliance on fossil fuels, improve energy efficiency, and lower long-term household energy costs. It also reflects a broader shift in the UK energy system. Against a backdrop of global energy instability and rising oil and gas prices, energy security has become a growing priority for the government. Homes are no longer viewed solely as consumers of energy, but as part of a more decentralised system in which they also generate and manage electricity."
+    },
+    {
+      "_type": "para",
+      "text": "Solar Panels Set to Become Mandatory in New Build Homes"
+    },
+    {
+      "_type": "para",
+      "text": "One of the most significant elements of the Future Homes Standard is the requirement for on-site renewables on the vast majority of new homes. Installed system sizes must be equivalent to the capacity of solar covering at least 40% of the building’s ground floor area. In practice, rooftop solar is the only practical way to meet this requirement."
+    },
+    {
+      "_type": "para",
+      "text": "This represents a clear departure from how solar has typically been deployed in residential development. In many cases, systems have been installed in minimal configurations, designed primarily to meet compliance thresholds rather than to support meaningful household energy demand."
+    },
+    {
+      "_type": "para",
+      "text": "Under the Future Homes Standard, solar will now play a central role in powering homes and improving their energy efficiency."
+    },
+    {
+      "_type": "para",
+      "text": "Why Are On-Site Renewables Like Solar Being Prioritised in the Future Homes Standard?"
+    },
+    {
+      "_type": "para",
+      "text": "The growing emphasis on on-site renewable energy generation within housing policy reflects a combination of structural and economic pressures."
+    },
+    {
+      "_type": "para",
+      "text": "The UK remains exposed to fluctuations in global oil and gas markets, and recent periods of volatility have reinforced the importance of reducing reliance on imported fossil fuels. At the same time, the transition to electric heating is expected to increase electricity demand in new homes, particularly as heat pumps replace gas boilers."
+    },
+    {
+      "_type": "para",
+      "text": "Solar is one of the most scalable and cost-effective ways to address both challenges by enabling homes to generate electricity onsite and protecting homeowners from spikes in energy prices. In practice, this means:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Lower reliance on grid electricity",
+        "Reduced exposure to energy price volatility",
+        "Lower long-term household energy costs"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "It also provides one of the most practical routes to cutting operational emissions in housing."
+    },
+    {
+      "_type": "para",
+      "text": "What The Future Homes Standard Means for Housebuilders"
+    },
+    {
+      "_type": "para",
+      "text": "For developers, the implications of the Future Homes Standard are both technical and commercial."
+    },
+    {
+      "_type": "para",
+      "text": "Solar will need to be considered at the design stage, alongside other core elements of the building. Roof orientation, pitch and layout will have a direct impact on how effectively solar systems can be integrated. Decisions that might previously have been treated as architectural details, such as the placement of vents, dormers or roof features, will now influence energy performance outcomes."
+    },
+    {
+      "_type": "para",
+      "text": "System sizing will also now be regulated. As homes become more reliant on electricity, particularly with the adoption of heat pumps, small solar arrays designed for previous minimum requirements will likely no longer be enough."
+    },
+    {
+      "_type": "para",
+      "text": "There are also implications for SAP scores and EPC ratings. Solar panels contribute directly, helping reduce a home’s reliance on grid electricity and improving overall energy performance."
+    },
+    {
+      "_type": "para",
+      "text": "Will Battery Storage Become Mandatory As Well?"
+    },
+    {
+      "_type": "para",
+      "text": "Battery storage is not mandated under the Future Homes Standard, but it is increasingly viewed as an essential component of any home renewable system, and critical to delivering the full benefits of rooftop solar."
+    },
+    {
+      "_type": "para",
+      "text": "Batteries allow homes to store excess solar energy generated during the day and use it later, when demand is higher. This increases the proportion of energy used on-site and reduces reliance on the grid, particularly during peak periods."
+    },
+    {
+      "_type": "para",
+      "text": "As energy systems become more flexible and responsive, storage is likely to play a growing role in how homes interact with the wider grid. For developers, this raises important questions about how far to go beyond minimum compliance and how to design homes that remain effective as energy use patterns continue to evolve."
+    },
+    {
+      "_type": "para",
+      "text": "When Will The New Regulations Come Into Force?"
+    },
+    {
+      "_type": "para",
+      "text": "The FHS regulations were published on 24 March 2026. The standard comes into force on 24 March 2027 for most new dwellings (24 September 2027 for higher-risk buildings). A 12-month transition period follows: building work must have commenced under previous regulations by 24 March 2028. After that date, all new homes must be built to FHS."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, the critical question is when Building Regulations applications are submitted and when work starts on site. Schemes already well progressed may proceed under the previous regime if they meet the transitional arrangements. Transitional arrangements operate on an individual building basis, so different homes on the same site may fall under different regulations."
+    },
+    {
+      "_type": "para",
+      "text": "How Will The On-Site Renewables Requirement Affect Planning and Delivery of New Homes?"
+    },
+    {
+      "_type": "para",
+      "text": "The introduction of on-site renewables (most often rooftop solar) as a standard requirement will have practical implications for how developments are designed and delivered."
+    },
+    {
+      "_type": "para",
+      "text": "At a project level, integrating solar across entire sites requires earlier coordination between architects, engineers and delivery teams. Decisions around roof design, system specification and electrical layout all need to be aligned from the outset to avoid inefficiencies or redesign later in the process."
+    },
+    {
+      "_type": "para",
+      "text": "There are also operational considerations:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Coordinating installation across multiple plots",
+        "Aligning solar with roofing and electrical works",
+        "Ensuring consistent system specification across house types"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Cost remains an important consideration. Although solar technology has become more affordable, applying it across every home still introduces additional cost pressures. As a result, some developers are exploring alternative delivery models, such as Gryd’s fully-funded solar leasing, which enable solar and battery systems to be installed with no upfront capital expenditure. These models can help housebuilders meet emerging regulatory requirements while maintaining project viability and avoiding additional cost being passed on to buyers."
+    },
+    {
+      "_type": "para",
+      "text": "As solar becomes a standard feature of new homes, how it is delivered will become increasingly important. Partnering with the right suppliers can help ensure systems are specified correctly, deployed consistently at scale, and integrated without adding complexity to the build process."
+    },
+    {
+      "_type": "para",
+      "text": "Coordinating with Electric Heating Systems"
+    },
+    {
+      "_type": "para",
+      "text": "Alongside on-site renewable energy generation, the Future Homes Standard requires all new homes to use low-carbon heating systems, with air source heat pumps set to be the default."
+    },
+    {
+      "_type": "para",
+      "text": "This marks a clear shift away from gas boilers and toward fully electrified homes. While heat pumps are highly efficient, they also change a home’s energy profile, increasing reliance on electricity rather than gas."
+    },
+    {
+      "_type": "para",
+      "text": "This makes onsite generation even more important. As electricity demand rises, particularly for heating and hot water, solar can help offset that load, reduce running costs and improve overall energy performance."
+    },
+    {
+      "_type": "para",
+      "text": "What is the Government Trying to Achieve?"
+    },
+    {
+      "_type": "para",
+      "text": "At its core, the Future Homes Standard is designed to accelerate the UK’s transition to a low-carbon, more energy-secure housing system."
+    },
+    {
+      "_type": "para",
+      "text": "The government’s aim is to reduce reliance on fossil fuels, cut household energy bills, and ensure that new homes are built to meet net zero targets without the need for costly retrofits in the future. In doing so, it is shifting housing policy away from incremental efficiency improvements toward a more fundamental change in how homes are powered."
+    },
+    {
+      "_type": "para",
+      "text": "Solar plays a central role in this strategy. By enabling homes to generate electricity onsite, it helps reduce demand on the grid, lowers carbon emissions, and supports the wider electrification of heating and transport."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, this signals a move beyond compliance alone. The Future Homes Standard is designed to embed energy performance into the fabric of every new home, aligning housing delivery with the UK’s broader climate and energy objectives."
+    },
+    {
+      "_type": "para",
+      "text": "How Can Developers Prepare for the Future Homes Standard?"
+    },
+    {
+      "_type": "para",
+      "text": "Now that the Future Homes Standard has landed, developers are in a period of transition."
+    },
+    {
+      "_type": "para",
+      "text": "Early preparation will be key. This includes:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Reviewing current design standards and specifications",
+        "Assessing how solar can be integrated across developments",
+        "Considering system sizing in relation to future energy demand",
+        "Understanding how solar interacts with heating systems and energy metrics"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "As requirements evolve, those who adapt early will be better positioned to deliver homes that meet both regulatory expectations and market demand."
+    },
+    {
+      "_type": "para",
+      "text": "For developers exploring how to integrate solar effectively, models such as fully funded solar and battery systems can help reduce complexity and avoid upfront costs. Gryd works with housebuilders across the UK to support this approach, helping deliver compliant, future-ready homes while keeping projects on track."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re reviewing your strategy in line with the Future Homes Standard’s requirements, get in touch to discuss how solar can be deployed across your developments. You can also use our free FHS Ready tool to check your development against the confirmed requirements, and see how Gryd’s zero-cost solar model closes the gap."
+    }
+  ],
+  "solar-and-affordable-housing": [
+    {
+      "_type": "lead",
+      "text": "Social housing is under intense pressure. Landlords are being asked to decarbonise ageing stock, tackle fuel poverty, improve tenant wellbeing and meet increasingly rigorous ESG standards, all while operating in one of the most constrained funding environments the sector has ever faced."
+    },
+    {
+      "_type": "para",
+      "text": "For local authorities and housing associations delivering affordable developments, the expectations on new schemes are rising just as build costs, regulation and financing requirements tighten."
+    },
+    {
+      "_type": "para",
+      "text": "Solar is widely recognised as part of the solution. It cuts carbon, lowers energy costs and limits exposure to energy market volatility. Yet most social housing still does not have solar. Research undertaken by Gryd found that just 5.5% of council-owned homes benefit from rooftop solar. Where it does, systems are typically sized to minimum requirements, with limited capacity and almost no battery storage. The barrier is simple: installation of properly-sized systems requires significant upfront capital that many landlords cannot spare."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, this creates a contradiction. Solar strengthens affordability and ESG performance on paper, but is frequently stripped out of schemes due to cost. The challenge is no longer whether solar belongs in social housing, but how it can be delivered without increasing development cost or landlord balance-sheet pressure."
+    },
+    {
+      "_type": "para",
+      "text": "Why solar has never been more important for social housing"
+    },
+    {
+      "_type": "para",
+      "text": "Fuel poverty is concentrated in the social rented sector, where households are more likely to be on fixed or low incomes and less able to absorb sudden rises in living costs. When the energy crisis drove prices to record levels, social housing tenants were exposed first and hardest."
+    },
+    {
+      "_type": "para",
+      "text": "Solar changes that exposure. By generating electricity on site, part of a tenant’s energy use is shielded from external price shocks, reducing dependence on volatile wholesale markets and creating a stabilising effect."
+    },
+    {
+      "_type": "para",
+      "text": "The impact goes beyond simple bill reduction. For households living close to the financial edge, volatility is often more damaging than high absolute costs that could be planned for. Removing uncertainty from monthly energy spend gives tenants greater control over their finances, enabling them to budget, reduce reliance on short-term credit and lower the risk of arrears building up across other essentials, like rent."
+    },
+    {
+      "_type": "para",
+      "text": "For landlords, that stability translates directly into lower default risk. When energy bills stop spiking unpredictably, tenants are far more likely to maintain consistent rental payments. Solar therefore functions not only as a decarbonisation tool for social housing but as a quiet stabiliser of rental income."
+    },
+    {
+      "_type": "para",
+      "text": "The ESG and funding imperative"
+    },
+    {
+      "_type": "para",
+      "text": "Environmental, Social and Governance performance is now a core driver of funding, planning and investment decisions across the housing sector. Social landlords are judged on measurable progress against decarbonisation, affordability and tenant outcomes."
+    },
+    {
+      "_type": "para",
+      "text": "Solar supports all three. It delivers immediate building-level emissions reductions, directly improves energy affordability and signals alignment with national decarbonisation policy."
+    },
+    {
+      "_type": "para",
+      "text": "It also supports eligibility for key public funding streams, particularly the Social Housing Decarbonisation Fund and ECO4. Social landlords may also be able to benefit from public funding for solar through the Warm Homes Fund, though scheme design and eligibility details are still to be announced."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders operating in the affordable sector, this matters. Developments that strengthen landlords’ ESG performance and funding eligibility are more attractive partners, particularly as housing associations become increasingly selective about pipeline projects."
+    },
+    {
+      "_type": "para",
+      "text": "Why Gryd Is the right model for affordable housing"
+    },
+    {
+      "_type": "para",
+      "text": "The primary barrier to scaling solar in social housing has always been capital. Either developers absorb the cost at construction stage, or landlords fund installations from already constrained budgets. In practice, this has meant solar is often deprioritised in favour of immediate statutory requirements."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd removes that barrier by eliminating the need for upfront capital altogether. Solar and battery storage is delivered through a leasing model that allows it to be installed at construction stage without adding to the developer’s build cost or the landlord’s balance sheet. Tenants benefit from lower energy bills and on-site generation from day one, while landlords gain ESG and decarbonisation benefits without diverting capital from safety works or core asset management."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s model ensures the households who benefit from solar are not just those who can afford a premium, but those who most need protection from energy market volatility."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd also monitors, manages and maintains the energy systems, removing the burden of ownership from housing associations."
+    },
+    {
+      "_type": "para",
+      "text": "From energy savings to financial stability"
+    },
+    {
+      "_type": "para",
+      "text": "The conversation around solar often centres on projected bill savings in pounds and pence. In the context of social housing, that framing is too narrow. The deeper impact lies in what stable energy costs unlock for households already under financial strain."
+    },
+    {
+      "_type": "para",
+      "text": "Solar becomes part of a wider financial story that links energy, housing security and long-term household stability."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, this creates an opportunity to rethink what genuine long-term value looks like in affordable housing. Solar is one of the few technologies that delivers simultaneous benefits across carbon reduction, tenant affordability and rental income stability. With Gryd, it can now be delivered without increasing build costs or diverting landlord capital."
+    },
+    {
+      "_type": "para",
+      "text": "To discuss how Gryd can be integrated into your next affordable or mixed-tenure development, speak to our team."
+    }
+  ],
+  "breaking-the-green-premium": [
+    {
+      "_type": "lead",
+      "text": "Energy efficiency and renewable features are fast becoming must-haves in new homes. They cut bills, improve sustainability, and boost a property’s long-term value. But the presence of solar, batteries, heat pumps and high-grade insulation have been marketed as “premium” features on new-builds to justify inflated property prices. This is commonly referred to as a “green premium” in new homes in the UK."
+    },
+    {
+      "_type": "para",
+      "text": "The cost of equipping new homes with renewable technologies such as solar panels, battery storage and heat pumps ranges from £15,000 to £30,000. These costs are often added into the sale price, which reduces how much value the buyer actually gets from the lower energy bills."
+    },
+    {
+      "_type": "para",
+      "text": "This “green premium” on sustainable new homes doesn’t just limit access to energy independence for buyers; it also undermines developers’ competitiveness. And with the Future Homes Standard now making low-carbon heating systems and on-site renewables the baseline, charging a premium for these features will soon be difficult to justify."
+    },
+    {
+      "_type": "h4",
+      "text": "Why the Green Premium Isn’t Working"
+    },
+    {
+      "_type": "para",
+      "text": "While some research suggests that solar alone can increase a property’s sale price by 6.1%-7.1%, that uplift isn’t guaranteed in today’s affordability-strained housing market."
+    },
+    {
+      "_type": "para",
+      "text": "Homebuyers face a real predicament: they may not recoup the upfront outlay for these renewable features through cumulative bill savings or via a reliable uplift in the resale value of their property. For developers, the risks are clear. Homes priced higher because of renewable add-ons are likely to face slower sales cycles and take longer to shift, or in some cases, not sell at all."
+    },
+    {
+      "_type": "para",
+      "text": "In a market where affordability is key, it’s overall value for money in green homes, not inflated price tags, that drives sales."
+    },
+    {
+      "_type": "h4",
+      "text": "A Market Under Pressure"
+    },
+    {
+      "_type": "para",
+      "text": "Industry data paints a clear picture of how tough things are for developers. In London alone, only 3,950 new homes were sold in the first half of 2025, just 9% of the government’s half-year delivery target, with private starts down 57% year-on-year."
+    },
+    {
+      "_type": "para",
+      "text": "Pushing for higher sale prices by spending more on the build is a high-risk strategy, particularly in a weak market, because those higher prices are not guaranteed. Developers are increasingly being left out of pocket, as many renewable add-ons in new builds now cost more to deliver than the uplift in sales price they generate. This adds weight to the case for alternative models that don’t depend on chasing a sale-price premium to make the numbers work."
+    },
+    {
+      "_type": "para",
+      "text": "Falling short of sales targets doesn’t just stall revenue, it threatens the viability of future developments. Until demand picks up, developers may hesitate to build, especially in areas where a green premium further deters price-sensitive buyers."
+    },
+    {
+      "_type": "h4",
+      "text": "Changing the Mindset: From “Extra” to “Essential”"
+    },
+    {
+      "_type": "para",
+      "text": "Breaking the green premium is about both fairness and smart strategy. Homes that include renewables as standard, without an added cost, are more attractive to buyers and sell more quickly. But traditional financing and ownership models make this inclusion challenging."
+    },
+    {
+      "_type": "para",
+      "text": "Solar leasing models such as Gryd’s require no upfront capital from developers and no price premium for buyers. It’s a straightforward route to integrate renewables as standard in new homes that deliver immediate energy savings and security for homebuyers, without forcing a compromise between renewables, build quality and a home’s price point."
+    },
+    {
+      "_type": "para",
+      "text": "They also help developers stand out in a crowded market, building trust through genuine value rather than upselling. And with the Future Homes Standard coming into force from March 2027, integrated renewables provide future-proof affordable homes with solar and battery systems, protecting developments from compliance costs down the line."
+    }
+  ],
+  "rising-energy-demand-bigger-systems": [
+    {
+      "_type": "lead",
+      "text": "UK homes are using more electricity than ever, and that trend is only accelerating. Even as our homes and appliances become more energy efficient, overall demand continues to climb: heating systems are switching to electric, EV ownership is rising, and households depend on more devices every day. In effect, our homes are becoming energy-hungry by design."
+    },
+    {
+      "_type": "para",
+      "text": "Yet most new homes are still being built to meet yesterday’s energy profile. Small solar installations may tick the box for current regulations, but they deliver very little in terms of real savings for residents, and leave households underprepared for an increasingly electrified future."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, this means new build homes need bigger solar systems. Properly sized solar and battery installations are no longer a luxury upgrade, they are essential for supporting rising household energy demand."
+    },
+    {
+      "_type": "para",
+      "text": "Home Energy Use Has Changed (And It’s Still Changing)"
+    },
+    {
+      "_type": "para",
+      "text": "The way homes use energy has changed dramatically over the past two decades."
+    },
+    {
+      "_type": "para",
+      "text": "A generation ago, roughly 80% of household energy demand came from heating and hot water, mostly powered by gas. Electricity demand was relatively low and predictable, covering lighting and a few appliances."
+    },
+    {
+      "_type": "para",
+      "text": "Today, the situation is very different. Modern homes are packed with power-hungry appliances, entertainment systems, home offices, EVs and connected devices. While heating remains a major factor, much more of a household’s energy now goes toward what’s called unregulated demand, which means homes aren’t just consuming more energy, they’re using it differently, at different times, and often more intensively."
+    },
+    {
+      "_type": "para",
+      "text": "That pressure is only set to increase. Gas boilers are being replaced by electric heat pumps, and EVs are becoming the norm. A home with both can easily double or triple its peak electricity demand compared to a gas-heated home, often at the exact times the grid is most under strain."
+    },
+    {
+      "_type": "para",
+      "text": "This is why homes need to be designed for greater energy independence. Full-scale solar and battery storage aren’t just a sustainability upgrade, they’re essential to keep up with how homes will use energy in the years ahead."
+    },
+    {
+      "_type": "para",
+      "text": "Preparing for Mandatory Solar, And Why Not All Solar Is Equal Solar will essentially become mandatory under the Future Homes Standard, which comes into force from March 2027. It mandates that installed systems provide capacity equivalent to at least 40% of the building’s ground floor area, a strong minimum baseline."
+    },
+    {
+      "_type": "para",
+      "text": "But minimums shouldn’t be the end goal, and there’s rarely a fixed upper limit. If viable roof space exists, it should be used. South-facing elevation should be maximised, with east- and west-facing roofs used wherever possible. The goal is to avoid undersized systems. Properly sized rooftop solar systems, designed to match future demand, can cover the majority of a home’s energy needs, reduce reliance on the grid and give residents greater protection from rising bills."
+    },
+    {
+      "_type": "para",
+      "text": "So, What Does ‘Full-Scale Solar’ Look Like In Practice?"
+    },
+    {
+      "_type": "para",
+      "text": "As a guide, we’d expect a typical three-bedroom home to require around 12 to 16 solar panels (roughly 4 to 6kW) to make a meaningful difference to its energy use. A five-bedroom home could expect to need between 18 to 24 panels (7 to 9kW or more) depending on its size, orientation and usage profile. Many new-builds are still being fitted with just 2 to 4 panels to meet current regulations, far short of what’s needed to support electrified households with heat pumps and EV charging, and what the Future Homes Standard will require."
+    },
+    {
+      "_type": "para",
+      "text": "But it’s not the size of a solar array alone that matters. Future-ready homes also need to be flexible, with onsite battery storage. Batteries have myriad benefits. They store excess solar energy when it’s abundant during the day and make it available in the evening, when usage spikes and grid electricity is at its most expensive. They help smooth out peaks and troughs in usage, reduce stress on the grid, and enable homes to respond to dynamic energy pricing or demand-side services. And while batteries also boost a home’s SAP score and EPC rating, there is currently no requirement under the Future Homes Standard for them to be included, meaning new builds risk missing out on a technology that delivers both immediate and long-term value."
+    },
+    {
+      "_type": "para",
+      "text": "As the UK energy system becomes more decentralised and connected, homes that can participate in this shift, rather than simply drawing power, will be better placed to benefit from new savings, services and incentives."
+    },
+    {
+      "_type": "para",
+      "text": "Removing the Cost Barrier"
+    },
+    {
+      "_type": "para",
+      "text": "The challenge with larger solar systems for new-builds has always been cost. Larger arrays and battery storage can add £10,000 to £15,000 or more to build costs, which often gets passed on to buyers in the sale price."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd solves this problem."
+    },
+    {
+      "_type": "para",
+      "text": "Our solar leasing model removes the hardware cost of solar entirely. We design, fund and maintain fully integrated rooftop solar and battery systems at zero capex for developers. Homeowners pay a fixed monthly subscription for 25 years, enjoy immediate energy savings, and never have to worry about ownership or maintenance of the solar system powering their home."
+    },
+    {
+      "_type": "para",
+      "text": "Want to learn more about Gryd’s solar leasing model? We’re working with developers across the UK to deliver future-ready solar and battery systems for electrified homes. Contact us to bring Gryd to your next project, or ask your housebuilder about homes powered by Gryd."
+    }
+  ],
+  "best-roof-types-for-solar": [
+    {
+      "_type": "lead",
+      "text": "Solar power is no longer a niche upgrade, it will soon be a standard feature of new-build homes across the UK. Alongside rising buyer expectations for energy-efficient homes, new regulations are raising the bar for sustainability in residential construction."
+    },
+    {
+      "_type": "para",
+      "text": "The Future Homes Standard will essentially require rooftop solar to be installed on all new homes from 2027. For developers, understanding roof suitability for solar panels in new builds is now essential for delivering compliant, future-ready housing."
+    },
+    {
+      "_type": "para",
+      "text": "Roof form, pitch, orientation, and layout all influence the performance and viability of a solar installation. Designing solar-ready roofs for new homes can improve energy performance, simplify installation, and increase the market appeal of properties."
+    },
+    {
+      "_type": "para",
+      "text": "In this guide, we explore the best roof types for solar panels in the UK, common design challenges, and practical considerations for integrating solar into housing developments."
+    },
+    {
+      "_type": "h3",
+      "text": "Roof Pitch, Orientation, and Shading for Solar Panels"
+    },
+    {
+      "_type": "para",
+      "text": "The most effective solar installations depend heavily on roof orientation and pitch."
+    },
+    {
+      "_type": "para",
+      "text": "In the UK, the ideal roof pitch for solar panels is typically between 30° and 40°, oriented as close to south-facing as possible. This angle allows panels to capture the maximum amount of sunlight throughout the year, though east, west arrangements can also work well with thoughtful system design."
+    },
+    {
+      "_type": "h4",
+      "text": "The Impact of Shading"
+    },
+    {
+      "_type": "para",
+      "text": "When assessing roof suitability for solar panels, shading is a critical factor. Shading can come from:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Nearby buildings",
+        "Trees",
+        "Chimneys or roof structures",
+        "Dormers or architectural features"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Even partial shading can reduce energy yield significantly. Conducting early shading analysis during the design phase helps ensure roofs are optimised for solar generation."
+    },
+    {
+      "_type": "para",
+      "text": "Best Roof Types for Solar"
+    },
+    {
+      "_type": "para",
+      "text": "Simple gable roofs tend to be the most straightforward for solar. They typically provide large, unshaded surfaces for panels and minimise obstructions. More complex roof designs, such as hipped roofs, dormers, or multiple roof elevations, can limit usable area or create shading issues, reducing overall system performance. Nearby buildings, trees, or roof features like flues can also significantly affect energy yield."
+    },
+    {
+      "_type": "para",
+      "text": "Another important consideration is the placement of tile vents or soil vent pipe (SVP) exits. These are often positioned in the centre of a roof elevation without regard for solar layouts, but they can take up valuable space and reduce array size. In most cases, they can be repositioned to suit the solar design with minimal effort, if considered early enough."
+    },
+    {
+      "_type": "para",
+      "text": "That said, solar layouts can often be adapted to work around skylights, chimneys, and other architectural features with the right planning. Early shading analysis can help identify and address these issues before construction begins."
+    },
+    {
+      "_type": "h3",
+      "text": "On-Roof vs In-Roof Solar Panels for New Builds"
+    },
+    {
+      "_type": "para",
+      "text": "When integrating solar on new homes, there are two main installation methods:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "On-roof systems, where panels are fixed above existing roof tiles. This is often the most cost-effective and simplest to install.",
+        "In-roof systems, where panels replace a section of the roofing material and sit flush with the surface. This approach is increasingly popular in new developments due to their cleaner appearance and potential savings on tiling costs."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Each option comes with trade-offs. In-roof systems often appeal for their clean, low-profile appearance and can reduce issues like bird nesting beneath panels. However, they may offer slightly less ventilation and can be more complex to access post-installation."
+    },
+    {
+      "_type": "para",
+      "text": "On-roof systems are generally quicker to install and easier to modify or expand in future, though they tend to be more visible."
+    },
+    {
+      "_type": "para",
+      "text": "Choosing the right system depends on a combination of aesthetic priorities, cost considerations, and planning constraints. Gryd helps housebuilders weigh these factors to find the best fit for each project’s goals and constraints."
+    },
+    {
+      "_type": "h3",
+      "text": "The Value of Early Solar Design Consultation"
+    },
+    {
+      "_type": "para",
+      "text": "Solar has too often been treated as a bolt-on feature rather than a foundational part of the building design. However, integrating solar into the roof design from the beginning leads to far better outcomes. Factors like panel placement, inverter location, cabling routes, and structural load considerations are far easier to address before the roof is built."
+    },
+    {
+      "_type": "para",
+      "text": "Involving solar specialists during the design phase, ideally alongside architects and engineers, can help avoid common pitfalls and ensure the system integrates smoothly with the rest of the build. Even relatively small design decisions made early on (like the placement of vents or dormers) can have a big impact on the viability of a roof for solar."
+    },
+    {
+      "_type": "para",
+      "text": "Planning solar-ready roof designs from the outset helps avoid costly redesigns later."
+    },
+    {
+      "_type": "h3",
+      "text": "Designing Solar-Ready Roofs for New Homes"
+    },
+    {
+      "_type": "para",
+      "text": "Incorporating solar into the roof design from day one ensures the best architectural integration, cost savings, and energy outcomes. It allows builders to optimise roof pitch and orientation, avoid clashes with other design elements, and plan electrical layouts with solar in mind."
+    },
+    {
+      "_type": "para",
+      "text": "But it’s still possible to integrate solar successfully at later stages, provided the roof structure and electrical systems can support it. Even in mid- or late-stage builds, practical design solutions can be developed, though they may come with limitations or additional costs."
+    },
+    {
+      "_type": "para",
+      "text": "Collaborating with solar specialists during the design phase can help navigate both technical and regulatory challenges, ensuring that new homes are built to perform for decades to come."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re exploring solar panel roof design for your development, Gryd’s team can help advise on system layouts, solar feasibility, and integration strategies tailored to your project. Get in touch to discuss your project or explore tailored solar options for your development."
+    }
+  ],
+  "integrating-solar-and-heat-pumps": [
+    {
+      "_type": "lead",
+      "text": "Gas boilers are being gradually phased out across the UK housing market, and from March 2027 the Future Homes Standard will require all new homes to operate with low-carbon heating systems."
+    },
+    {
+      "_type": "para",
+      "text": "As air source heat pumps (ASHPs) become the standard for new homes, they bring a host of benefits but also new design and cost considerations. These include higher electricity demand, greater exposure to electricity price volatility, and the need to carefully manage SAP and EPC performance."
+    },
+    {
+      "_type": "para",
+      "text": "Integrating solar PV with ASHP systems in new homes offers one of the most effective ways to mitigate these issues. By generating renewable electricity onsite, solar panels can offset heat pump demand, reduce running costs, and improve energy performance ratings."
+    },
+    {
+      "_type": "para",
+      "text": "This guide explains how solar and heat pumps work together in new build homes, how the combination affects energy costs, and why design-stage integration is critical for housebuilders."
+    },
+    {
+      "_type": "h3",
+      "text": "The Electrical Impact of Heat Pumps"
+    },
+    {
+      "_type": "para",
+      "text": "Air source heat pumps are significantly more efficient than traditional gas boilers. In many cases they deliver three to four units of heat for every unit of electricity consumed. However, they also represent a major shift in a home’s energy profile, from gas to electricity, which has cost and design implications."
+    },
+    {
+      "_type": "para",
+      "text": "For a typical three-bedroom new-build home, installing an ASHP may increase electricity consumption by 3,500 to 4,500 kWh per year for heating alone. This raises total electricity demand substantially and leaves homeowners more exposed to fluctuations in electricity prices. Electricity currently costs around four times as much as gas per kWh, meaning heating bills for all-electric homes without onsite generation can quickly exceed those of gas-heated properties."
+    },
+    {
+      "_type": "para",
+      "text": "Another key factor is how heat pumps operate compared with traditional heating systems. Gas boilers typically deliver short bursts of high-temperature heat, switching on and off throughout the day."
+    },
+    {
+      "_type": "para",
+      "text": "Heat pumps work differently. They perform best when running continuously at lower temperatures, maintaining a steady indoor climate. This creates a flatter but higher base electricity demand, especially during evening and overnight hours. Because solar panels only generate electricity during the day, homes without storage must rely on the grid for this additional demand."
+    },
+    {
+      "_type": "para",
+      "text": "Adding battery storage for solar and heat pump systems in new builds allows excess solar energy generated during the day to be stored and used overnight, reducing reliance on imported electricity."
+    },
+    {
+      "_type": "h3",
+      "text": "Real-World Scenario: Heat Pump With and Without Solar"
+    },
+    {
+      "_type": "para",
+      "text": "To illustrate how different energy and heating systems affect running costs, let’s take a typical three-bedroom, semi-detached home in the UK as an example:"
+    },
+    {
+      "_type": "para",
+      "text": "Estimated Annual Energy Costs for a Three-Bedroom Home"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Gas Boiler Only (No Solar): Annual Energy Cost (Heating & Hot Water Only) £1,200; Key Assumptions Assumes energy demand of ~12,000 kWh gas/year",
+        "ASHP Only (No Solar): Annual Energy Cost (Heating & Hot Water Only) £1,350; Key Assumptions ~4,500 kWh added to standard energy demand",
+        "ASHP + 5.5kW Solar: Annual Energy Cost (Heating & Hot Water Only) £950; Key Assumptions Rooftop solar yield offsets ~20 to 40% of demand",
+        "ASHP + Gryd Smart Solar System (inc Battery Storage & Optimisation): Annual Energy Cost (Heating & Hot Water Only) £800; Key Assumptions Smart ongoing optimisation of solar and ASHP load. Including a battery increases the usable generation to ~70%+"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "A 5.5kW solar system (producing ~4,500 to 5,000 kWh/year) can cover a substantial portion of both heating and general household electricity needs, particularly when paired with controls and battery storage."
+    },
+    {
+      "_type": "para",
+      "text": "Figures are based on 2025 average unit prices (electricity @ £0.30/kWh, gas @ £0.10/kWh)."
+    },
+    {
+      "_type": "h3",
+      "text": "Meeting SAP and EPC Targets With Solar and Heat Pumps"
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders delivering the next generation of low-carbon housing, combining solar PV with air source heat pumps is one of the clearest paths to meeting the forthcoming Future Homes Standard requirements."
+    },
+    {
+      "_type": "para",
+      "text": "Under SAP 10.2, and with further updates expected under SAP 11, renewable electricity generation significantly improves energy modelling outcomes."
+    },
+    {
+      "_type": "para",
+      "text": "Key benefits include:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Lower primary energy and emissions factors when solar is used on-site",
+        "Improved Dwelling Emission Rate (DER) performance",
+        "Easier compliance with Part L and Future Homes Standard thresholds"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "This means homes using solar PV and heat pumps together often perform better than gas-heated homes when it comes to meeting Part L requirements and Future Homes Standard targets."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, this combination provides a practical pathway to achieving stronger SAP scores and EPC banding."
+    },
+    {
+      "_type": "h3",
+      "text": "Supporting Solar Integration for New Developments"
+    },
+    {
+      "_type": "para",
+      "text": "For developers integrating solar PV with heat pump systems, careful system sizing and energy modelling are essential. Design-stage planning is critical, enabling correct sizing of heat pump systems, optimal solar orientation, and the seamless integration of energy storage or smart load-shifting technologies. These early decisions can significantly influence SAP scores, EPC ratings, and long-term energy costs."
+    },
+    {
+      "_type": "para",
+      "text": "For developers looking to integrate solar effectively alongside heat pump systems, Gryd can advise on system sizing, generation modelling, and smart energy controls that supports the broader energy strategy of each home and improves SAP scores."
+    },
+    {
+      "_type": "para",
+      "text": "While we don’t specify or install heat pumps directly, we work closely with housebuilders to ensure our solar systems are deployed in a way that complements the electric heating and smart energy management in new builds."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re exploring solar integration alongside heat pump systems, get in touch with Gryd to discuss how our smart solar solutions can support your next development."
+    }
+  ],
+  "how-solar-helps-meet-epc-targets": [
+    {
+      "_type": "lead",
+      "text": "The UK housing market has never been more focused on energy efficiency. Buyers increasingly want homes with lower running costs and greater energy independence. Lenders offer better mortgage rates for energy-efficient properties."
+    },
+    {
+      "_type": "para",
+      "text": "At the same time, planning authorities across the UK are embedding higher EPC targets for new build homes into local policy. A minimum EPC C rating is widely expected to become mandatory across the housing stock, and for new builds, EPC B is already considered the practical baseline."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, this means paying closer attention to SAP scores, which determine a home’s Energy Performance Certificate (EPC) rating. Achieving an EPC B rating for new builds (SAP score of 81 or higher) has become essential not just for compliance with evolving regulations, but for staying competitive in a market increasingly driven by sustainability."
+    },
+    {
+      "_type": "para",
+      "text": "In this guide, we explain how solar panels improve EPC ratings in the UK, and why solar PV and battery storage are becoming one of the most effective and scalable solutions for developers looking to meet EPC targets."
+    },
+    {
+      "_type": "h3",
+      "text": "What Are EPC Ratings and SAP Scores?"
+    },
+    {
+      "_type": "para",
+      "text": "An Energy Performance Certificate (EPC) measures how energy efficient a home is. Every property sold or rented in the UK must have an EPC, which rates the building on a scale from A (most efficient) to G (least efficient)."
+    },
+    {
+      "_type": "para",
+      "text": "EPC ratings are calculated using the Standard Assessment Procedure (SAP), the UK government’s methodology for estimating the energy cost and carbon emissions of a home. The SAP score is a numerical value (typically between 1 and 100+) that determines the EPC band. SAP assessments consider a range of factors: insulation, heating systems, ventilation, lighting, and on-site renewable energy sources. Together, these ratings help homebuyers understand the efficiency of a home."
+    },
+    {
+      "_type": "para",
+      "text": "For new builds, improving the SAP score is the clearest route to achieving the EPC B rating increasingly demanded by lenders, planners and buyers alike."
+    },
+    {
+      "_type": "h3",
+      "text": "How Solar Panels Improve EPC Ratings in the UK"
+    },
+    {
+      "_type": "para",
+      "text": "One of the most effective ways to boost EPC ratings in new builds is through rooftop solar PV systems."
+    },
+    {
+      "_type": "para",
+      "text": "Rooftop solar and battery storage systems generate clean electricity directly on site, significantly reducing the amount of energy a home needs to draw from the grid. Electricity drawn from the grid has an associated carbon intensity, currently around 0.16 kg of CO₂ per kWh in SAP calculations. By contrast, solar electricity generates zero direct carbon emissions."
+    },
+    {
+      "_type": "para",
+      "text": "Therefore, the more energy provided by solar, the lower the home’s carbon footprint and the better its overall SAP score and EPC rating."
+    },
+    {
+      "_type": "para",
+      "text": "For many developments, even a modest solar array can lift a home’s SAP score by several points. For many developments, this can be the difference between EPC C and EPC B."
+    },
+    {
+      "_type": "h3",
+      "text": "Solar and Battery Storage for EPC Rating Upgrades"
+    },
+    {
+      "_type": "para",
+      "text": "While solar panels alone improve energy performance, solar plus battery storage can enhance those benefits further."
+    },
+    {
+      "_type": "para",
+      "text": "Battery storage now contributes directly to SAP ratings. By storing surplus energy, batteries help homes rely more on renewable energy, which boosts their overall energy efficiency and reduces their carbon footprint."
+    },
+    {
+      "_type": "para",
+      "text": "Batteries store excess solar energy generated during the day for use in the evening, when demand and electricity costs peak. This increases the share of renewable energy used within the home, which improves energy efficiency modelling and reduces reliance on grid electricity. As a result, solar and battery storage systems can help developers meet EPC targets more effectively."
+    },
+    {
+      "_type": "para",
+      "text": "As energy modelling evolves and grid flexibility becomes more valuable, battery storage plays an increasingly important role in how energy performance is assessed, providing homeowners with lower bills, better resilience, and higher appeal for energy-conscious buyers."
+    },
+    {
+      "_type": "para",
+      "text": "For developers looking for EPC compliance strategies, integrating solar PV and battery storage is becoming an increasingly attractive approach."
+    },
+    {
+      "_type": "h3",
+      "text": "Delivering EPC Targets at Scale"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s fully funded solar and battery systems for developers make it easier to integrate renewable energy across entire housing developments."
+    },
+    {
+      "_type": "para",
+      "text": "Because Gryd funds the hardware and manages the systems long-term, developers can deploy smart solar systems for EPC compliance without adding upfront costs to their projects. By contrast, deep fabric improvements or advanced HVAC systems can be costly and complex."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s fully-funded solar model enables housebuilders to:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Improve SAP scores and EPC outcomes",
+        "Deliver energy-efficient new builds with solar compliance",
+        "Differentiate homes in a competitive market"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "For many developments, solar integration can provide a clear pathway toward EPC A ratings, helping developers future-proof homes against tightening energy regulations."
+    },
+    {
+      "_type": "h3",
+      "text": "Ready to Build Smarter?"
+    },
+    {
+      "_type": "para",
+      "text": "Energy performance is rapidly becoming a central factor in housing design, regulation, and buyer demand."
+    },
+    {
+      "_type": "para",
+      "text": "As EPC requirements tighten, solar PV will play an increasingly important role in delivering sustainable housing developments in the UK."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re looking to meet EPC targets, reduce carbon emissions, and deliver future-ready housing developments, Gryd’s solar and battery systems offer a simple and cost-effective approach."
+    },
+    {
+      "_type": "para",
+      "text": "Get in touch with Gryd to learn how our fully funded smart solar solutions can help your developments achieve stronger EPC outcomes, without upfront capital or long-term maintenance obligations."
+    }
+  ],
+  "what-is-gryd": [
+    {
+      "_type": "lead",
+      "text": "The homes of tomorrow start with solar today, and Gryd exists to make that future simple, accessible, and built-in from the start."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd is a solar subscription company in the UK that helps developers and homeowners embrace smart, sustainable energy without the cost or complexity of traditional solar ownership."
+    },
+    {
+      "_type": "para",
+      "text": "By rethinking how solar fits into residential developments, Gryd is unlocking a new standard for future-ready energy for new homes: one where clean energy is no longer a luxury or an afterthought, but a core part of the home from day one."
+    },
+    {
+      "_type": "h3",
+      "text": "Why Gryd Exists"
+    },
+    {
+      "_type": "para",
+      "text": "Most new homes today come with just enough solar to meet current minimum regulations. These systems typically cost developers around £5,000 per property, are passed on through the purchase price, and offer buyers only minimal savings, often no more than 2 to 3% on their energy bills."
+    },
+    {
+      "_type": "para",
+      "text": "More advanced systems, including full-sized solar arrays and battery storage, can significantly cut bills and boost energy independence. But they can add £15,000 or more to build costs, which usually translates into higher house prices, the need for larger mortgages and long payback times."
+    },
+    {
+      "_type": "para",
+      "text": "This is the gap Gryd was created to close. By removing the upfront cost and ongoing maintenance burden of solar, we enable housebuilders to deliver high-performance systems that meet both regulatory and buyer expectations, at no cost to the developer."
+    },
+    {
+      "_type": "para",
+      "text": "Instead of buying the solar system, homeowners subscribe to it. This solar lease model meets the upcoming Future Homes Standard requirements and provides immediate energy savings, energy independence, and long-term flexibility, without the burden of ownership."
+    },
+    {
+      "_type": "h3",
+      "text": "How Gryd Delivers Solar That’s Built In, Not Bolted On"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd exists to change the way solar is delivered, from a costly, bolt-on feature to an integrated, intelligent energy system that powers modern life."
+    },
+    {
+      "_type": "para",
+      "text": "Today’s homebuyers expect more. They want true energy independence, price stability and clean power, enabled by smart systems that optimise usage, store excess power, and integrate seamlessly with a more dynamic grid."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s systems are built with this in mind. Battery storage is included as standard, allowing homes to make the most of their own energy. Our technology adapts in real time to usage patterns and shifting demand. And as the UK grid evolves, Gryd homes will be ready to take part in broader energy services, unlocking further efficiency and long-term value for households."
+    },
+    {
+      "_type": "para",
+      "text": "We’re already working with developers across the UK to help them not just meet but exceed evolving building regulations, including the forthcoming Future Homes Standard benchmarks."
+    },
+    {
+      "_type": "h3",
+      "text": "For Housebuilders: Energy That Adds Value, Not Cost"
+    },
+    {
+      "_type": "para",
+      "text": "For developers, integrating solar into large housing developments can be costly and complex."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd offers developers a fully funded and managed solar solution that supports compliance and removes financial risk while strengthening the appeal of every home."
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "There’s no CAPEX, we fund the entire system.",
+        "We provide a high-performance, compliant energy solution with no impact on build costs or margins.",
+        "We manage everything from system design and deployment to monitoring and 25 years of support and maintenance.",
+        "You reduce complexity, risk, and operational overhead, while delivering future-ready homes."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "For Homeowners: Solar Without the Upfront Cost"
+    },
+    {
+      "_type": "para",
+      "text": "Traditionally, installing solar meant paying thousands of pounds upfront, putting clean energy out of reach for many. Gryd has changed that with a simple, transparent leasing model that delivers predictable savings and peace of mind from day one."
+    },
+    {
+      "_type": "para",
+      "text": "Our model works similarly to other subscription services. Instead of buying the solar system outright, homeowners pay a predictable monthly subscription."
+    },
+    {
+      "_type": "para",
+      "text": "This model allows UK buyers to benefit from solar energy immediately without a large upfront investment."
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd, homeowners benefit from:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "An optimally-sized solar and battery system included in the home",
+        "No upfront cost. We fund, insure and maintain the solar and battery hardware for 25 years.",
+        "A fixed, inflation-free monthly subscription.",
+        "Immediate energy bill savings and protection from market volatility.",
+        "A flexible model by design, transfer or buy out your system at any time, with no fees or penalties."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd, you don’t have to own the panels to own the benefits of solar."
+    },
+    {
+      "_type": "h3",
+      "text": "Homes Fit for the Future, Today"
+    },
+    {
+      "_type": "para",
+      "text": "Clean energy shouldn’t be a luxury. At Gryd, we’re making high-performance solar accessible for every new home."
+    },
+    {
+      "_type": "para",
+      "text": "Whether you’re building homes or moving into one, Gryd is your partner in delivering energy that’s built for the way we live now, and ready for what comes next."
+    },
+    {
+      "_type": "para",
+      "text": "Want Gryd in your next home? Look for our systems in new developments across the country, or tell your builder you want Gryd’s solar and battery subscription."
+    },
+    {
+      "_type": "para",
+      "text": "Let’s change how homes are powered, together."
+    }
+  ],
+  "solar-maintenance-and-replacement-costs": [
+    {
+      "_type": "lead",
+      "text": "As rooftop solar becomes a standard feature in new-build homes across the UK, understanding the long-term cost of solar panels is essential, for both housebuilders and homeowners."
+    },
+    {
+      "_type": "para",
+      "text": "For developers planning Future Homes Standard-compliant homes, and buyers investing in solar-powered properties, it’s important to understand the ongoing maintenance and replacement costs of solar panels, including servicing, cleaning, insurance, and component replacement."
+    },
+    {
+      "_type": "h3",
+      "text": "Solar Panel Maintenance Costs in the UK"
+    },
+    {
+      "_type": "para",
+      "text": "Regular servicing and upkeep ensures optimal performance and longevity of home solar systems. For homeowners who own their system outright, it’s important to factor in the following routine costs:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Annual Servicing: Professional inspections and servicing helps to maintain your system’s overall health and efficiency, costs between £100 and £300 per year.",
+        "Solar Panel Cleaning: Solar panels work best when they’re clean because dirt, pollen and other debris can block sunlight, reducing your system’s performance over time. It’s best to have your solar panels professionally cleaned at least once every year, with costs ranging from £100 to £250, depending on system size and accessibility.",
+        "Insurance: If you own your solar system, you’ll need to insure it. Ensure your policy provides coverage for the solar panels as well as the inverter and battery system. Adding a solar system to home insurance policies can cost an additional £60 to £100 annually."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Ongoing Maintenance Costs:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Annual Servicing: Annual Maintenance £100 to £150; Total 25-Year Cost £2,500 to £3,750",
+        "Panel Cleaning: Annual Maintenance £100 to £250; Total 25-Year Cost £2,500 to £6,250",
+        "Insurance: Annual Maintenance £60 to £100; Total 25-Year Cost £1,500 to £2,500",
+        "Total: Annual Maintenance ; Total 25-Year Cost £6,500 to £11,250"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Replacement Costs"
+    },
+    {
+      "_type": "para",
+      "text": "Typically, solar panels have a lifespan of 25 to 30 years and, barring physical damage or manufacturing defects, are unlikely to need replacement during that time. But that’s not the full story:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Solar inverters, the component that converts solar energy into usable electricity, usually need replacing every 10 to 15 years. Replacement costs in the UK range from £730 to £1,460, depending on the type and capacity",
+        "Battery storage has become an important feature of future-ready new homes. Like inverters, they typically have a lifespan of 10 to 15 years depending on usage and technology. Costs to replace the battery vary based on capacity and brand, with prices averaging around £5,000 and increasing to as much as £10,000."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Lifetime Repair Costs:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Inverter Replacement: Lifespan 10 to 15 years; Replacement Cost £730 to £1,460; Total 25-Year Cost £730 to £1,460",
+        "Battery Replacement: Lifespan 10 to 15 years; Replacement Cost £5,000 to £10,000; Total 25-Year Cost £5,000 to £10,000",
+        "Total: Lifespan ; Replacement Cost ; Total 25-Year Cost £5,730 to £11,460"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "When combining maintenance and component replacement, the total lifetime cost of owning solar panels in the UK can reach:"
+    },
+    {
+      "_type": "para",
+      "text": "£12,230 to £22,710 over a typical 25-year system lifespan."
+    },
+    {
+      "_type": "para",
+      "text": "These components can see households running into significant out-of-pocket costs if they’re unprepared for them."
+    },
+    {
+      "_type": "h3",
+      "text": "Solar Ownership vs Solar Leasing: Cost Comparison"
+    },
+    {
+      "_type": "para",
+      "text": "Understanding the cost-benefit of solar lease vs ownership in the UK is important for homeowners deciding how to access solar energy."
+    },
+    {
+      "_type": "para",
+      "text": "Outright purchase of a solar system can offer the best long-term savings if you expect to stay in your home for 25 years or more, long enough to recoup the upfront investment through energy bill savings. However, it’s important to weigh this against both the high initial cost of the hardware and the ongoing maintenance and repair needs, and the fact that these savings typically depend on not moving home before the payback period ends."
+    },
+    {
+      "_type": "h3",
+      "text": "Gryd’s Solar Leasing Model"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd offers an alternative approach through a maintenance-included solar lease model. Rather than purchasing the solar equipment, homeowners subscribe to the system while Gryd handles all maintenance, servicing, insurance and long-term system management."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Upfront Cost: £0",
+        "Monthly Subscription: Fixed, inflation-proof rate for 25 years (monthly price varies based on system size)",
+        "Cleaning & Servicing: Included",
+        "Battery & Inverter Replacements: Included",
+        "Insurance: Included",
+        "Total Estimated Cost Over 25 Years: Varies based on lease terms, but typically lower than ownership when factoring in maintenance and replacement costs."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "This model removes many of the hidden costs of solar panels for homeowners, providing predictable long-term energy savings without maintenance responsibilities."
+    },
+    {
+      "_type": "h3",
+      "text": "Key Considerations for Builders and Buyers"
+    },
+    {
+      "_type": "para",
+      "text": "While solar ownership offers full control of the system, it also comes with long-term responsibilities and potential unexpected costs. Parts wear out, maintenance can’t be ignored, and insurance may not cover all solar-related issues."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s solar subscription model removes these barriers by providing a fully managed solar system with maintenance included, turning solar into a simple, predictable energy solution."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders and homeowners looking for a smarter way to adopt solar energy, Gryd offers a hassle-free alternative to traditional solar ownership."
+    },
+    {
+      "_type": "para",
+      "text": "Get in touch with Gryd today to explore a simpler approach to solar energy for new homes."
+    }
+  ],
+  "do-you-need-a-solar-battery": [
+    {
+      "_type": "lead",
+      "text": "With the Future Homes Standard essentially making rooftop solar mandatory for all new homes from March 2027, the natural next question is: should they come with a battery, too?"
+    },
+    {
+      "_type": "para",
+      "text": "While solar panels generate clean electricity, battery storage unlocks their full potential, boosting homeowners’ savings and energy independence from the traditional grid."
+    },
+    {
+      "_type": "para",
+      "text": "In this guide we explain the benefits of solar battery storage, how it compares with solar-only systems, and why batteries are becoming an essential part of future-ready housing."
+    },
+    {
+      "_type": "h3",
+      "text": "Do New Build Homes Need Battery Storage As Well?"
+    },
+    {
+      "_type": "para",
+      "text": "While rooftop solar panels generate clean electricity, solar battery storage unlocks their full potential."
+    },
+    {
+      "_type": "para",
+      "text": "A home battery system stores unused solar energy during the day and releases it when needed, typically in the evening, when demand and energy prices peak. Without a battery, any excess power generated from your solar panels is exported back to the grid, often at much lower rates than what you pay to import it. The value of using your own stored energy far outweighs any savings from selling it, boosting your overall return on investment."
+    },
+    {
+      "_type": "para",
+      "text": "It’s no surprise that demand is growing rapidly. Today, around 43% of UK homes with solar panels also include battery storage, reflecting strong and growing demand for smarter energy use at home."
+    },
+    {
+      "_type": "para",
+      "text": "Yet despite this shift, very few new-build homes currently include a battery system as standard. For developers, this presents an opportunity to differentiate and futureproof their offerings."
+    },
+    {
+      "_type": "h3",
+      "text": "Solar Battery vs Solar Only for New Homes"
+    },
+    {
+      "_type": "para",
+      "text": "To understand the impact of battery storage, it helps to compare solar-only systems with solar and battery storage in a typical UK home."
+    },
+    {
+      "_type": "para",
+      "text": "Below is an example based on a 4kW rooftop solar system in a well-insulated new build property."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Without Battery: Annual Savings £200 to £400; Home Energy Needs Met by Onsite Solar ~20 to 30%; Energy Independence Low, most of your energy still comes from the grid, subject to price rises",
+        "With Battery: Annual Savings £700 to £1000; Home Energy Needs Met by Onsite Solar ~70 to 85%; Energy Independence Medium, High, most of your energy is self-generated, limiting exposure to market price rises"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "With a battery, your home becomes dramatically more efficient, relying significantly less on the grid and making better use of every kilowatt-hour you generate."
+    },
+    {
+      "_type": "para",
+      "text": "As energy prices in the UK continue to fluctuate, battery storage has another critical advantage: flexibility. Homeowners can time when they draw power, using stored solar energy when prices are high and even charging batteries from the grid during cheap overnight rates."
+    },
+    {
+      "_type": "h3",
+      "text": "A Lower Carbon Footprint, Built In"
+    },
+    {
+      "_type": "para",
+      "text": "Solar panels are an important step toward low-carbon housing. But combining solar generation with battery storage is what allows homes to truly maximise their renewable energy potential."
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd’s solar subscription model, homeowners receive an amply-sized solar system, battery storage, insurance, and maintenance in one simple package."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s intelligent battery systems are designed to learn a home’s energy usage and optimise it automatically, helping homes reduce bills even further while staying green. And with our subscription model, the benefits of battery storage come without the upfront costs or future expenses of inverter or battery replacements."
+    },
+    {
+      "_type": "para",
+      "text": "There is no large upfront investment and no long payback period, just a smarter way to power new homes."
+    }
+  ],
+  "battery-storage-and-grid-constraints": [
+    {
+      "_type": "lead",
+      "text": "As grid capacity tightens and planning policies demand lower-carbon homes, many housebuilders are hitting a wall: grid constraints on new housing developments."
+    },
+    {
+      "_type": "para",
+      "text": "These constraints can delay projects and even derail them entirely. But on-site solar and battery storage systems, especially when delivered through CAPEX-free models like Gryd’s, offers a powerful route to making previously unviable sites stack up again, without waiting years for infrastructure upgrades."
+    },
+    {
+      "_type": "para",
+      "text": "Very few solar-powered new-build homes are currently being delivered with onsite battery storage, which is creating a growing problem. Without a way to manage when solar energy is used, we risk compounding the very challenges that come with renewable generation, predictable but variable supply, leading to more extreme peaks and troughs in supply and demand. In turn, this places further pressure on already stretched grid infrastructure, requiring costly upgrades to accommodate short but intense spikes in load."
+    },
+    {
+      "_type": "h3",
+      "text": "What Are Grid Constraints and Peak Load Shaving?"
+    },
+    {
+      "_type": "para",
+      "text": "To understand how battery storage solves grid constraints, it helps to understand two key concepts: network capacity limits and peak load shaving."
+    },
+    {
+      "_type": "para",
+      "text": "Grid Constraints"
+    },
+    {
+      "_type": "para",
+      "text": "Grid constraints refer to the limited capacity of the local electricity network to support the energy load of proposed new developments. In practical terms, this means that a new housing site may be told it can’t connect to the grid without costly reinforcements or delays."
+    },
+    {
+      "_type": "para",
+      "text": "Without targeted upgrades, a development could hit a hard limit on power availability. That means fewer homes could be connected, sharply increasing costs for developers or reducing the value of a site, making projects non-starters."
+    },
+    {
+      "_type": "para",
+      "text": "Peak Load Shaving"
+    },
+    {
+      "_type": "para",
+      "text": "Peak load shaving is a strategy that uses on-site renewable energy sources, such as solar and battery storage, to reduce the demand on the grid during times of highest electricity usage, known as “peak load” periods. By generating and using solar energy locally, developments can avoid putting extra strain on the network."
+    },
+    {
+      "_type": "para",
+      "text": "It’s not just high demand that creates problems, it’s also excess generation. When solar output is high and local usage is low, that surplus energy gets exported back into the grid. If too much is sent at once, it can overwhelm local infrastructure. The substation becomes the bottleneck in both directions: struggling to supply enough power during peak demand, and unable to absorb surplus energy during peak generation."
+    },
+    {
+      "_type": "para",
+      "text": "Battery storage is key to managing both sides of the equation. It captures excess solar energy when generation is high, rather than flooding the grid, and stores it for use later, when demand rises. This helps smooth out supply and demand, avoids overloading the substation, and supports a more stable, flexible local energy system. And, crucially, it enables more homes to be built without waiting for costly grid upgrades."
+    },
+    {
+      "_type": "h3",
+      "text": "How Battery Storage Improves Project Viability"
+    },
+    {
+      "_type": "para",
+      "text": "The financial impact of grid constraints on housing developments can be significant."
+    },
+    {
+      "_type": "para",
+      "text": "If the cost of connecting to the grid is too high, say, due to the need for a substation upgrade or cable reinforcements, a project may be deemed financially unviable. That can mean pausing or even abandoning developments that are otherwise shovel-ready. This is particularly true for edge-of-grid or rural sites, which are more likely to experience limited capacity."
+    },
+    {
+      "_type": "h3",
+      "text": "Exampl e: Reducing Grid Demand on a 500-Home Development"
+    },
+    {
+      "_type": "para",
+      "text": "Consider a 500-home housing development facing a £1 million grid connection upgrade. That’s an additional £20,000 of build cost per home that may not have been factored in."
+    },
+    {
+      "_type": "para",
+      "text": "By integrating solar and battery storage on every home, the developer can significantly reduce peak electricity demand across the site."
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd’s system, developers could see up to 1kWp demand reduction at the local substation per home with a 10 kWh battery, cutting aggregate peak demand by up to 500kWp. This demand reduction can allow the development to fall within a lower network capacity threshold, meaning fewer infrastructure upgrades may be required."
+    },
+    {
+      "_type": "para",
+      "text": "This can dramatically reduce grid upgrade costs savings and make the difference between a stalled and a viable site."
+    },
+    {
+      "_type": "h3",
+      "text": "Planning Pressure for Low-Carbon Homes"
+    },
+    {
+      "_type": "para",
+      "text": "Planning authorities across the UK are increasingly prioritising low-carbon housing developments. Many local planning frameworks now require new homes to exceed Part L building regulations, include on-site renewables, or demonstrate net-zero readiness."
+    },
+    {
+      "_type": "para",
+      "text": "Additionally, the forthcoming Future Homes Standard will require all new homes to feature on-site renewable energy generation (in practice, rooftop solar PV)."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, integrating solar and battery storage into new-build developments helps meet these requirements while also addressing grid capacity constraints."
+    },
+    {
+      "_type": "h3",
+      "text": "Tips for Navigating Grid Constraints"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Engage DNOs early: Understand your site’s capacity limits before design is finalised.",
+        "Use demand-reducing tech: Solar and battery systems can reduce required capacity.",
+        "Explore CAPEX-free models: Gryd offers solar and storage with no upfront cost to developer or buyer.",
+        "Factor planning gains: On-site renewables can ease planning approval, especially in sustainability-focused LPAs."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Solar and Battery Storage Without Upfront CAPEX"
+    },
+    {
+      "_type": "para",
+      "text": "Grid constraints for new builds don’t need to be a dealbreaker. With smart tech, a clear strategy, and the right partners, developers can unlock sites once considered out of reach."
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd’s subscription-based solar and battery systems, developers can reduce peak demand on the local network by up to 1kWp per home. Across a multi-home development, those reductions add up quickly and can help a site fall within a lower grid capacity threshold."
+    },
+    {
+      "_type": "para",
+      "text": "Integrating solar through models like Gryd’s not only helps address planning pressures but does so without upfront capital expenditure. That makes it easier for developers to meet low-carbon requirements while keeping projects financially viable."
+    },
+    {
+      "_type": "para",
+      "text": "Solar doesn’t just tick a planning box, it can play a meaningful role in improving the overall viability of a development."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re facing grid limitations or exploring ways to future-proof your projects, get in touch with Gryd. Our CAPEX-free solar and battery solutions help housebuilders reduce grid demand and deliver low-carbon homes at scale. Let’s talk about how we can help unlock your next site."
+    }
+  ],
+  "solar-providers-compared": [
+    {
+      "_type": "h3",
+      "text": "Home Solar is Booming, But Who Pays?"
+    },
+    {
+      "_type": "lead",
+      "text": "Rooftop solar is now the most in-demand home energy upgrade in the UK, and for good reason. It cuts bills, improves EPC ratings, and reduces carbon emissions. But despite rising demand, the high upfront costs of solar hardware mean many homeowners still can’t afford solar ownership."
+    },
+    {
+      "_type": "para",
+      "text": "Recent data shows that 69% of homebuyers want solar, yet 85% can’t afford the upfront cost or wait the 10+ years typically required to recover the investment through energy savings. And with 60% of first-time buyers moving within five years, traditional solar ownership models simply don’t stack up for many households."
+    },
+    {
+      "_type": "para",
+      "text": "For UK housebuilders, it’s another pressure point, especially as the Future Homes Standard will essentially make solar mandatory for all new homes from 2027. The question is: how do you deliver solar that’s future-ready, affordable, and simple to install?"
+    },
+    {
+      "_type": "para",
+      "text": "In this guide, we provide a solar providers comparison for housebuilders and homeowners, looking at three leading models, ours at Gryd, Zero Bills by Octopus, and SNRG SmartGrid., to help both builders and buyers understand the benefits and value behind each model."
+    },
+    {
+      "_type": "para",
+      "text": "Understanding the benefits and value behind each model can help you to choose the best solar solution for your needs."
+    },
+    {
+      "_type": "h3",
+      "text": "Understanding Key Solar Industry Terms"
+    },
+    {
+      "_type": "para",
+      "text": "Before comparing solar providers, it’s helpful to understand a few common terms used across the industry."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "PPA (Power Purchase Agreement): A contract where a homeowner agrees to purchase electricity generated by a solar system installed on their property, typically at a fixed rate.",
+        "Solar Lease: An arrangement where a homeowner pays a fixed monthly fee to use a solar system installed and maintained by a third party.",
+        "EPC (Energy Performance Certificate): A document that rates the energy efficiency of a property, influencing its market value and compliance with building regulations.",
+        "FiT (Feed-in Tariff): A now-closed UK government scheme that paid homeowners for renewable electricity generated on their homes."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Provider Comparison"
+    },
+    {
+      "_type": "para",
+      "text": "Below is a comparison of three different approaches to rooftop solar for new-build homes in the UK."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Cost to Developer: Gryd £0; Octopus Zero Bills £15,000+; SNRG £0",
+        "Cost to Homeowner: Gryd £0; Octopus Zero Bills System cost added to sale price; SNRG £0",
+        "Ownership Model: Gryd Subscription-based; Gryd owns and maintains the system; Octopus Zero Bills Homeowner owns and maintains the system to certain standard to keep Zero Bills eligibility; SNRG SNRG owns and operates community energy systems with private metering for homes",
+        "Energy Pricing: Gryd Fixed subscription fee (e.g., ~£70/month for an average fully electric 3-bed home); Octopus Zero Bills £0 with a fair usage policy and exclusion of EV charging (paid for on a separate tariff); SNRG Operates as a PPA with a discounted unit rate of electricity compared to the market (typically 15%)",
+        "Energy Provider / Tariff Restrictions: Gryd Free to choose any provider and tariff; Octopus Zero Bills Must be on Octopus Zero Bills tariff; SNRG Must be on SNRG PPA tariff",
+        "Maintenance & Insurance: Gryd Included for 25 years; Octopus Zero Bills Homeowner’s responsibility; SNRG Included; SNRG manages maintenance and operations",
+        "System Sizing: Gryd Optimally sized per home; Octopus Zero Bills Maximised specification; SNRG Site-wide private network system design",
+        "EV Charging: Gryd Included; Octopus Zero Bills Not included; SNRG Included",
+        "Flexibility Benefit: Gryd Yes; Octopus Zero Bills No; SNRG No",
+        "Developer Involvement: Gryd Low, Deployment via your existing supply chain or a Gryd trusted partner.; Octopus Zero Bills High, developer must coordinate and fund spec-compliant installs; SNRG Medium, developer partners with SNRG during planning, SNRG handles funding and ops",
+        "Homeowner Payback: Gryd 0 years; Octopus Zero Bills 10+ years; SNRG 0 years",
+        "Regulatory Demand: Gryd Low; Octopus Zero Bills Medium; SNRG High",
+        "Home Acceptance Rate: Gryd High, almost every home; Octopus Zero Bills Medium, must meet Octopus’s requirements; SNRG Low, minimum site scale of 50 homes",
+        "Ease to Exit: Gryd Easy, exit any time with lease buyout; Octopus Zero Bills Easy, switch supplier; SNRG Hard, removal of private meter and installation of traditional meter at homeowner expense."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "Key Considerations With Each Provider"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero Bills (Octopus Energy): Octopus Zero Bills has gained attention for its promise to eliminate household energy bills for at least five years for qualifying homes. The model combines solar panels, battery storage, and a heat pump to enable homes to generate most of their energy on-site."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "However, these systems typically cost £15,000 to £20,000 per home. Developers must fund this infrastructure upfront, which increases development costs and ultimately raises property sale prices. In effect, homeowners may be prepaying years of future energy costs through a higher purchase price."
+    },
+    {
+      "_type": "para",
+      "text": "This model may be best suited for premium developments where buyers are willing to pay a “green premium,” but it introduces financial risk for developers if those higher sale prices cannot be achieved."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "SNRG: SNRG uses a different approach, building site-wide private microgrids with centralised generation and storage, a clever but capital-heavy solution that demands deep planning involvement, high regulatory sign-off, and significant coordination with DNOs (Distribution Network Operators)."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Because of the complexity involved, this model is typically best suited to large-scale developments. It may be less flexible for smaller projects or individual homeowners seeking greater control over their energy provider."
+    },
+    {
+      "_type": "h3",
+      "text": "Where Gryd’s Solar Subscription Model Stands Out"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd offers a subscription-based solar solution for new homes in the UK designed to remove barriers for both homeowners and developers:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero-cost solar hardware for both parties",
+        "Right-sized systems tailored to each individual home",
+        "Can be included up to shell completion, streamlining build schedules",
+        "Full-service model with maintenance, monitoring, and support included",
+        "Battery storage included as standard, and no limitations on energy use including for EV charging"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s subscription model eliminates upfront costs and includes comprehensive maintenance and insurance for the 25 life of the solar and battery storage system."
+    },
+    {
+      "_type": "para",
+      "text": "For homeowners, the model means no debt, no maintenance, and immediate energy savings. For developers, there’s no capital expenditure, minimal engagement, and no added sales risk. It’s a clean, compliant, and future-proof solution."
+    },
+    {
+      "_type": "h3",
+      "text": "Choosing the Right Solar Provider"
+    },
+    {
+      "_type": "para",
+      "text": "By understanding the differences among providers and industry terms, homeowners and housebuilders can make informed decisions that align with their needs."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re exploring solar options and want a provider that makes the process simple, affordable, and scalable, Gryd is ready to help. Whether you’re building new homes or looking to enhance an existing development, our subscription-based model takes the hassle out of solar, with no upfront costs, no maintenance, and maximum impact."
+    },
+    {
+      "_type": "para",
+      "text": "Get in touch with Gryd today to discuss how our solution compares and find out if it’s the right fit for your development."
+    }
+  ],
+  "a-simple-guide-to-solar-leases": [
+    {
+      "_type": "lead",
+      "text": "As the UK accelerates its transition to clean energy, solar leasing is emerging as a powerful tool for housebuilders and homeowners alike."
+    },
+    {
+      "_type": "para",
+      "text": "A solar lease for new homes allows households to benefit from solar energy without the upfront cost of purchasing and installing a system. At the same time, it offers developers a no-CAPEX solar solution that supports sustainability targets while protecting development margins. Companies like Gryd are leading the charge, helping bring subscription solar panels to new build homes across the country and making solar more accessible than ever."
+    },
+    {
+      "_type": "h4",
+      "text": "What Is a Solar Lease?"
+    },
+    {
+      "_type": "para",
+      "text": "A solar lease allows homeowners to benefit from solar energy without paying for the solar equipment themselves."
+    },
+    {
+      "_type": "para",
+      "text": "Under a typical solar lease model, a provider funds and manages the solar system on the roof while the homeowner pays a fixed monthly subscription. The provider is granted rights to use the airspace above the roof, not the land itself, to install and operate the solar system. This legally defined arrangement ensures the provider can access the system for maintenance while the homeowner retains full control of their property."
+    },
+    {
+      "_type": "para",
+      "text": "In exchange for a third-party provider (like Gryd) deploying and maintaining the solar panels that provide the home energy, the homeowner pays a fixed monthly fee, which is designed to be lower than traditional energy bills."
+    },
+    {
+      "_type": "para",
+      "text": "Because the system is funded and managed by the provider, homeowners gain risk-free solar energy without equipment ownership."
+    },
+    {
+      "_type": "para",
+      "text": "This approach is particularly attractive for UK households seeking long-term fixed price energy without large upfront investments."
+    },
+    {
+      "_type": "para",
+      "text": "Earlier solar lease models, particularly in the U.S., sometimes included complex Power Purchase Agreements (PPAs) with escalating costs and transfer difficulties. These leases were often found to be overly restrictive on homeowners. However, the industry has evolved significantly since then."
+    },
+    {
+      "_type": "para",
+      "text": "UK Finance, the trade association representing the UK banking industry and all major lenders, has established guidance to combat the terms that made previous models so onerous and ensure modern solar leases are mortgage-friendly."
+    },
+    {
+      "_type": "para",
+      "text": "Modern solar lease agreements are much more straightforward than previous models, with clear terms and conditions that are designed to be approved quickly by mortgage providers. Gryd’s solar leasing model has been developed with leading UK real estate law firms and independently reviewed to ensure full compliance with UK Finance guidelines. It meets the requirements of all major mortgage lenders, supporting a smooth path to approval and installation."
+    },
+    {
+      "_type": "h4",
+      "text": "Benefits of a Solar Lease vs. Solar Ownership"
+    },
+    {
+      "_type": "para",
+      "text": "Benefits to Homeowners:"
+    },
+    {
+      "_type": "para",
+      "text": "While owning a solar system can be the right choice for some, leasing offers distinct advantages that make it attractive to many homeowners:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero Upfront Costs: Unlike ownership, which often requires thousands of pounds in initial investment, a solar lease like Gryd’s allows homeowners to enjoy solar energy with no upfront capital outlay.",
+        "No Maintenance Responsibility: All servicing, monitoring, and maintenance of the solar system are handled by the provider. Homeowners don’t have to worry about panel efficiency, inverter replacement, or system upkeep.",
+        "Predictable Energy Costs: Lease models come with fixed or predictable payments, giving homeowners stable energy costs while reducing overall energy bills. Gryd’s model guarantees households a fixed, low monthly subscription fee for the 25-year life of the solar system.",
+        "Risk-Free Adoption: With no asset depreciation to worry about and no need to resell equipment, solar leasing minimises financial and operational risk.",
+        "Ideal for Shorter-Term Homeowners: For those who don’t plan to live in their homes long enough to see the full ROI of solar ownership, a lease offers immediate benefits without long-term commitment."
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "Benefits of Solar Leasing for Housebuilders:"
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, choosing leased solar over owned systems offers a range of benefits:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Cost-Neutral Compliance with Building Regulations: Leased solar enables housebuilders to meet current standards as well as the forthcoming Future Homes Standard to deliver homes that are truly built for a net zero future, without bearing the system cost directly.",
+        "Simplified Cash Flow: Since the cost of the solar hardware is not included in the housebuilder’s capex, it preserves capital for other priorities.",
+        "Sales-Ready Homes: With Gryd’s pre-approved lease model, homes come ready with compliant solar systems that are attractive to buyers but don’t add complexity to the sales process.",
+        "Faster Build-Out and Planning Approvals: Local authorities increasingly favour developments that integrate renewable energy, and it will become a mandatory requirement from 2027 under the Future Homes Standard. Leased solar helps unlock planning permissions and improve site viability, especially in affordable and social housing.",
+        "No After-Sales Support Burden: Because a third-party provider like Gryd owns and operates the system, housebuilders are not responsible for maintenance or service calls post-sale.",
+        "Improved Buyer Appeal: Offering homes with solar leases can increase the property’s appeal and speed of sale, especially as energy-conscious buyers look to reduce bills and their carbon footprint."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "In short, leased solar helps housebuilders deliver greener homes, faster and more affordably, without becoming solar asset managers themselves."
+    },
+    {
+      "_type": "h4",
+      "text": "How Solar Leases Transfer During Resale"
+    },
+    {
+      "_type": "para",
+      "text": "A common question homeowners ask is: what happens to a solar lease when selling a property?"
+    },
+    {
+      "_type": "para",
+      "text": "Modern solar lease transfers during resale in the UK are designed to be straightforward. With Gryd, our process typically follows these steps:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Seller notifies the buyer: The seller should inform potential buyers that the property includes a Gryd solar lease.",
+        "Lease flagged during conveyancing: Because Gryd’s lease is registered on the property’s title, it will automatically be highlighted by solicitors during the conveyancing process.",
+        "Buyer has options: The incoming homeowner can either continue with the Gryd subscription or choose to buy out the lease and take full ownership of the system.",
+        "Sale proceeds as normal: The house purchase completes as usual, with all parties aware of the solar lease and factoring it into the transaction.",
+        "Lease transfers automatically: The new homeowner automatically inherits the lease as part of the property purchase, there’s no need to re-sign unless they opt to buy it out.",
+        "New owner registers with Gryd: After completion, the new homeowner registers with Gryd and starts benefiting from cleaner, cheaper energy from day one."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "This streamlined process ensures that a solar lease doesn’t hinder the home sale."
+    },
+    {
+      "_type": "para",
+      "text": "The success of solar leasing is already evident in the U.S., Australia and parts of Europe. Companies like Sunrun in the U.S. has surpassed 900,000 residential customers, with a 98% solar lease transfer success rate during home sales."
+    },
+    {
+      "_type": "para",
+      "text": "Solutions like Gryd’s solar lease model offer a practical solution for homeowners and housebuilders wanting to benefit from renewable energy without significant upfront costs. With streamlined transfer processes, regulatory compliance, and support from financial institutions, solar leasing makes the benefits of solar accessible to millions more homeowners."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re a housebuilder looking to future-proof your developments, get in touch with our team to learn how solar leasing can power your next project."
+    }
+  ],
+  "mandatory-solar-panels-in-new-homes": [
+    {
+      "_type": "lead",
+      "text": "As the UK moves closer to implementing the Future Homes Standard, housebuilders must prepare for a major shift in how new homes are designed and built. One of the most significant upcoming changes is the expected introduction of mandatory solar panels on new homes in the UK by 2027."
+    },
+    {
+      "_type": "para",
+      "text": "For developers, rooftop solar will become an essential tool for meeting energy efficiency targets for new homes and deliver the homes that today’s home buyers want."
+    },
+    {
+      "_type": "para",
+      "text": "But with new compliance pressures comes concern around cost, particularly at scale. That’s why many developers are now exploring alternative delivery models, such as fully funded solar leasing, which allow solar PV to be integrated into housing developments without upfront capital expenditure."
+    },
+    {
+      "_type": "para",
+      "text": "Below, we unpack what the Future Homes Standard solar requirement means for housebuilders, what’s still being clarified, and how developers can future-proof new UK homes with solar and storage while protecting project viability."
+    },
+    {
+      "_type": "h3",
+      "text": "What’s Changing with the Future Homes Standard?"
+    },
+    {
+      "_type": "para",
+      "text": "The Future Homes Standard, set to be announced in full imminently, is a cornerstone of the UK government’s net-zero housing strategy. The policy aims to ensure that all new homes produce 75 to 80% fewer carbon emissions compared with current building regulations."
+    },
+    {
+      "_type": "para",
+      "text": "One of the most important ways developers will meet these targets is through solar panels on new build homes from 2027."
+    },
+    {
+      "_type": "para",
+      "text": "While the full technical details are still to be released, the government has announced that most new residential developments will require rooftop solar PV systems."
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders, this means that integrating solar in housing developments in the UK must now be considered early in the planning process. Exploring fully funded solar leasing models like Gryd’s can help you align with the new regulations while keeping margins intact and avoiding disruption to build schedules."
+    },
+    {
+      "_type": "h3",
+      "text": "Understanding the Cost of Rooftop Solar on New Builds in the UK"
+    },
+    {
+      "_type": "para",
+      "text": "For housebuilders unfamiliar with solar technology, cost planning is a common concern. The good news is that solar technology has become significantly cheaper and more efficient in the past decade. However, the pressure to deliver low-carbon homes at scale is causing many housebuilders to install the minimum viable solar systems to meet current building regulations."
+    },
+    {
+      "_type": "para",
+      "text": "The average size of home solar systems being installed has decreased from about 4kWp in 2023 to 2.4kWp in 2024. A 2.4kWp system is inadequate for even modest energy needs and leaves no headroom for future demands, such as electric vehicle charging, heat pumps or electric heating systems, or growing families with increasing energy consumption. Installing a larger 5 to 6kW system offers a far more futureproof solution and delivers greater long-term savings and carbon reduction."
+    },
+    {
+      "_type": "para",
+      "text": "Larger systems provide a much more future-ready solution. Systems in the 5 to 6 kW range offer significantly higher energy generation, helping homeowners reduce bills while supporting the electrification of homes."
+    },
+    {
+      "_type": "para",
+      "text": "Importantly at any size profile, every solar installation should include battery storage to maximise the system’s efficiency, allowing homeowners to store excess energy and use it later when generation drops."
+    },
+    {
+      "_type": "para",
+      "text": "Below we break down the typical cost of a new build solar system in the UK, including estimates with and without battery storage."
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "3 kW: No. of Panels 7 to 8 panels; Solar Only (Installed Cost) £4,500 to £5,500; Solar + Battery (Installed Cost) £7,000 to £8,500",
+        "4 kW: No. of Panels 9 to 11 panels; Solar Only (Installed Cost) £5,500 to £6,500; Solar + Battery (Installed Cost) £8,000 to £9,500",
+        "5 kW: No. of Panels 12 to 13 panels; Solar Only (Installed Cost) £6,500 to £7,500; Solar + Battery (Installed Cost) £10,000 to £12,000",
+        "6 kW: No. of Panels 14 to 16 panels; Solar Only (Installed Cost) £7,000 to £8,500; Solar + Battery (Installed Cost) £11,000 to £13,500"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "These estimates reflect the typical cost of solar panels, inverter, installation, and basic equipment. While batteries are optional, they are increasingly seen as essential for future-proofing a home solar system, unlocking its full potential and allowing homeowners to store excess energy for use at night or when the sun isn’t shining as strongly."
+    },
+    {
+      "_type": "h3",
+      "text": "Why Solar Adds Value to New Build Homes"
+    },
+    {
+      "_type": "para",
+      "text": "Solar is no longer just an environmental choice; it’s a financial one. Recent surveys show that a majority of today’s home buyers want lower energy bills, long-term energy security, and homes that are truly built for the future, not just for compliance."
+    },
+    {
+      "_type": "para",
+      "text": "Developers who get ahead of the regulatory curve and respond to the consumer demand that is already robust in the market have the chance to gain the competitive edge."
+    },
+    {
+      "_type": "para",
+      "text": "If you’re looking to add the benefits of rooftop solar onto your developments without the financial burden of purchasing and ownership, Gryd’s fully-funded model is a great option. Our smart solar systems offer a turnkey solution to the forthcoming mandate with no capital investment or system ownership required."
+    },
+    {
+      "_type": "para",
+      "text": "Your homes will come with futureproofed smart solar and battery systems built-in and optimised for each property, allowing homebuyers to benefit from lower bills and greener energy from day one."
+    },
+    {
+      "_type": "para",
+      "text": "Ready to get ahead of the solar mandate? We work directly with developers to streamline deployment across entire projects, from specification to completion. For developers exploring the most efficient path to compliance, Gryd’s fully funded solar model can reduce financial strain while keeping projects on track."
+    },
+    {
+      "_type": "para",
+      "text": "Contact Gryd today to discuss how solar can be integrated into your upcoming developments affordably and with future compliance standards in mind. Let’s build the homes of the future, today."
+    }
+  ],
+  "project:st-ives-year-of-data": [
+    {
+      "_type": "h3",
+      "text": "Summary"
+    },
+    {
+      "_type": "lead",
+      "text": "BK Developments partnered with Gryd on their barn conversion project in St. Ives, Cornwall, three all-electric Build-to-Rent homes with Air Source Heat Pumps. Rising build costs had forced the developer to abandon solar entirely. Gryd stepped in with a fully-funded solar and battery system provided at zero cost, upgrading the properties from no renewable energy to 49% grid independence."
+    },
+    {
+      "_type": "para",
+      "text": "The result: EPC A-rated homes, £158.87 in verified first-year tenant savings (14.1%), ~0.81 tonnes of CO₂ avoided annually, and a clear demonstration of what can be achievedwith innovative solutions to renewables challenges."
+    },
+    {
+      "_type": "h3",
+      "text": "Key Details"
+    },
+    {
+      "_type": "para",
+      "text": "Developer: BK Developments"
+    },
+    {
+      "_type": "para",
+      "text": "Project: Barn conversion, 3 residential units"
+    },
+    {
+      "_type": "para",
+      "text": "Location: St. Ives, Cornwall"
+    },
+    {
+      "_type": "para",
+      "text": "Type: Build-to-Rent (BTR)"
+    },
+    {
+      "_type": "para",
+      "text": "Heating: All-electric with ASHP"
+    },
+    {
+      "_type": "para",
+      "text": "System installed: 10 solar panels and 5.4 kWh battery"
+    },
+    {
+      "_type": "para",
+      "text": "Data period: April 2025, March 2026 (12 months, monitored)"
+    },
+    {
+      "_type": "h3",
+      "text": "Key Outcomes"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero additional cost to include solar and battery",
+        "EPC uplift from B to A",
+        "14.1% tenant bill saving (£158.87/year)",
+        "49% of consumption met by on-site solar",
+        "3,919 kWh of clean energy generated",
+        "~0.81 tonnes of CO₂ avoided per year",
+        "Gryd’s proof of concept validated with real data"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "The Developer"
+    },
+    {
+      "_type": "para",
+      "text": "BK Developments is a property developer delivering high-quality residential homes in the South West of England. For the St. Ives project, they acquired a traditional barn with planning permission to convert it into three modern homes. They chose to run it as a Build-to-Rent (BTR) scheme, retaining the freehold and letting the properties to tenants on long-term rental agreements."
+    },
+    {
+      "_type": "para",
+      "text": "The BTR model meant that running costs mattered. Tenants would be living in these homes day-to-day, paying the bills, and their experience would directly affect tenant experience, retention and rental yields. Getting the energy specification right was a commercial priority, not just a sustainability aspiration."
+    },
+    {
+      "_type": "para",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+    },
+    {
+      "_type": "para",
+      "text": "The project delivered three all-electric residential properties in St. Ives, Cornwall, each fitted with Air Source Heat Pumps (ASHPs) for heating and hot water, eliminating gas dependency entirely. This aligned with current building regulations and the UK’s push toward net zero."
+    },
+    {
+      "_type": "para",
+      "text": "However, with no gas alternative, electricity was the single largest running cost for tenants. Every kilowatt-hour of heating, hot water, cooking, and appliance use would come from the grid at the prevailing tariff rate, making the energy specification critical to the affordability of the homes."
+    },
+    {
+      "_type": "para",
+      "text": "BK Developments recognised early on that adding solar panels would make the properties more attractive to prospective tenants and differentiate the scheme in a competitive Cornish rental market."
+    },
+    {
+      "_type": "h3",
+      "text": "The Challenge"
+    },
+    {
+      "_type": "para",
+      "text": "As the project progressed, rising build costs forced the developer to abandon their solar plans. The additional capital expenditure for panels, inverters, and battery storage across three units simply couldn’t be justified within the project budget."
+    },
+    {
+      "_type": "para",
+      "text": "This left the developer with a dilemma:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Without solar, tenants in all-electric ASHP homes would face the full cost of the Standard Variable Tariff for every kilowatt-hour consumed. With no gas alternative, winter bills would be particularly high, ASHP demand peaks in the coldest months when electricity is needed most.",
+        "Adding solar would reduce tenant bills and improve the property’s appeal, but the cost had ruled it out."
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "“We always wanted solar on these homes. They’re all-electric with heat pumps, so we knew the energy bills would be the first thing tenants looked at. But when build costs started climbing, we had to make hard choices, solar was one of the things that fell off the spec. It was frustrating, because we could see the value it would add, but the numbers just didn’t work.”"
+    },
+    {
+      "_type": "para",
+      "text": ", Ben, Director, BK Developments"
+    },
+    {
+      "_type": "h3",
+      "text": "The Solution"
+    },
+    {
+      "_type": "h4",
+      "text": "How Gryd got involved"
+    },
+    {
+      "_type": "para",
+      "text": "BK Developments discovered Gryd and found a model that resolved the tension entirely. Gryd could deliver a fully-funded solar and battery system on each property, at zero capital cost to the developer."
+    },
+    {
+      "_type": "para",
+      "text": "This was Gryd’s very first project, a proof of concept that would validate the model with real-world performance data from a live scheme."
+    },
+    {
+      "_type": "h4",
+      "text": "The Gryd model for BTR"
+    },
+    {
+      "_type": "para",
+      "text": "The BTR structure created a clean commercial arrangement:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Gryd funds the solar and battery system on each property, no cost to BKDevelopments.",
+        "The developer subscribes at £50/month for each unit, recovered from the tenant as part of their rental charge.",
+        "Tenants benefit from solar generation that offsets their consumption, plus, as there is a battery in the system they can take advantage of a Time of Use Tariff, charging it overnight at a cost significantly below the SVT.",
+        "The property improves, the SAP scores increase and each homes EPC rating moves from B to A, enhancing long-term asset value."
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "12-Month Performance"
+    },
+    {
+      "_type": "para",
+      "text": "The following results are based on actual monitored data from the Gryd system at one of the three units over the 12-month period April 2025 to March 2026."
+    },
+    {
+      "_type": "h4",
+      "text": "Energy performance"
+    },
+    {
+      "_type": "para",
+      "text": "For half the year, the property generated more electricity than it consumed, a remarkable outcome for a UK property, particularly with only 10 panels installed. Even across the full year, nearly half of all consumption was met directly by solar and battery storage."
+    },
+    {
+      "_type": "h4",
+      "text": "Seasonal Profile"
+    },
+    {
+      "_type": "para",
+      "text": "During spring and summer, the system covered 76 to 83% of all consumption from solar, dramatically reducing grid reliance. Even in winter, the system still offset over a quarter of demand."
+    },
+    {
+      "_type": "h4",
+      "text": "Financial impact: tenant bill savings"
+    },
+    {
+      "_type": "para",
+      "text": "This is where the Gryd model delivers tangible value."
+    },
+    {
+      "_type": "h4",
+      "text": "Monthly Savings Breakdown"
+    },
+    {
+      "_type": "para",
+      "text": "Figures exclude daily standing charge, applicable with or without Gryd."
+    },
+    {
+      "_type": "h4",
+      "text": "Key takeaways from the data:"
+    },
+    {
+      "_type": "para",
+      "text": "11 out of 12 months delivered a positive saving. The only exception was May, the tenant was away on holiday for two weeks, reducing consumption to just 207 kWh. With the SVT bill at only £54.86, it fell marginally below the Gryd cost. The difference: just 59p. Under normal occupancy, May would almost certainly have delivered a positive saving."
+    },
+    {
+      "_type": "para",
+      "text": "Even in Winter Gryd delivered. January delivered the largest monthly saving (£26.33). Despite minimal solar generation, the reduced per-kWh rate from the TOU tariff, made accessible as a result of the battery, meant significant savings with overnight charging to power the ASHP throughout the day."
+    },
+    {
+      "_type": "para",
+      "text": "The £50 subscription pays for itself every month where consumption exceeds approximately 189 kWh, which was every month except May."
+    },
+    {
+      "_type": "h4",
+      "text": "Energy price sensitivity"
+    },
+    {
+      "_type": "para",
+      "text": "The saving grows as energy prices rise. At crisis-era SVT levels, the system would save nearly £356/year:"
+    },
+    {
+      "_type": "para",
+      "text": "Every £0.01/kWh increase in the SVT, approximately £26 is added to the annual saving. The Gryd subscription offers a natural hedge against energy market volatility."
+    },
+    {
+      "_type": "h3",
+      "text": "The Impact"
+    },
+    {
+      "_type": "h4",
+      "text": "For the developer"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero additional build cost for solar and battery, abandoned due to rising construction costs; Gryd restored it at no expense EPC A ratings across all three properties (up from B)",
+        "More attractive rental proposition, lower running costs and visible ESG credentials",
+        "Regulatory future-proofing, an A rating provides substantial headroom above upcoming MEES requirements",
+        "Higher asset value, EPC A correlates with stronger property valuations and rental yields"
+      ]
+    },
+    {
+      "_type": "h4",
+      "text": "For homeowners"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "£158.87 saved per year (14.1%), verified from 12 months of monitored data",
+        "49% grid independence, nearly half of all electricity consumed came from on-site solar",
+        "2,082 kWh of clean energy consumed on-site, avoiding approximately 0.81 tonnes of CO₂ per year",
+        "Protection from energy price rises and market volatility, tenants are partially shielded from future energy price increases"
+      ]
+    },
+    {
+      "_type": "h3",
+      "text": "What Sets Gryd Apart"
+    },
+    {
+      "_type": "para",
+      "text": "Gryd funds the hardware. The developer pays nothing. Solar panels, batteries, inverters, and smart monitoring, all provided, installed, and maintained through Gryd’s SPV-funded model. Developers get best-in-class energy systems on every home without impacting build budgets."
+    },
+    {
+      "_type": "para",
+      "text": "This project demonstrates what makes Gryd different:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Zero capex for the developer, no impact on build cost or project margin",
+        "Purpose-built for BTR, the subscription model aligns perfectly with rental properties, transferring seamlessly between tenants",
+        "Real-world proof, 12 months of monitored data validates the model with verified savings, not projections",
+        "Performance despite constraints, even with only 10 panels (vs a typical 14 to 16), the system delivered 49% grid independence and 14% bill savings",
+        "EPC uplift, moving from B to A adds tangible value to the asset and future-proofs against regulation",
+        "Energy price hedge, the fixed Gryd rate protects tenants from SVT volatility, with savings growing as prices rise"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "“Every developer we speak to faces the same tension. They want to build high performance homes, but the economics won’t stretch. This project proved that tension doesn’t have to exist. We now have twelve months of real-world evidence that our model delivers for every stakeholder, and that gives developers the confidence that greener, more affordable homes aren’t a trade-off. They’re the new standard.”"
+    },
+    {
+      "_type": "para",
+      "text": ", Mohamed Gaafar, Co-Founder & CEO, Gryd"
+    }
+  ],
+  "project:fifty-five-plot-analysis": [
+    {
+      "_type": "h3",
+      "text": "Overview"
+    },
+    {
+      "_type": "lead",
+      "text": "This case study is based on an independent cost analysis conducted by the Technical Director of a UK SME house builder. The developer was evaluating how to meet increasingly stringent energy performance requirements on a 55-home development in East Anglia while protecting project margins."
+    },
+    {
+      "_type": "para",
+      "text": "The analysis compared four specification scenarios across two approaches: the developers current approach of self-supply and a funded solar and battery solution from Gryd Energy. The findings were shared with Gryd, and the developer gave permission to publish the anonymised results."
+    },
+    {
+      "_type": "h3",
+      "text": "The Challenge"
+    },
+    {
+      "_type": "para",
+      "text": "The developer had built a reputation for delivering high-performance, all-electric homes with an EPC A rating. Their M&E specification was driven by two objectives:"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Low operational carbon",
+        "EPC A as standard"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "This was achieved through an all-electric, no-gas approach combining excellent fabric performance, direct electric panel radiators, mechanical ventilation with heat recovery (MVHR), waste water heat recovery (WWHR), and substantial rooftop solar PV."
+    },
+    {
+      "_type": "para",
+      "text": "However, the transition from 2013 to 2021 Building Regulations introduced significantly more stringent requirements. PV requirements increased substantially, and the cost of maintaining an EPC A specification rose sharply."
+    },
+    {
+      "_type": "para",
+      "text": "On their 55-home site, the two largest energy specification cost contributors were PV and MVHR, accounting for an average increase of £9,560 per plot to achieve the required standards. Although adding battery storage is not required under regulations, it had been an ambition. However, it would push costs to approximately £13,224 per plot and deemed unfeasible."
+    },
+    {
+      "_type": "para",
+      "text": "At a time when build cost pressure across the sector was intensifying, the developer needed a route to maintain their energy specification advantage without absorbing five- or six-figure cost increases across the site."
+    },
+    {
+      "_type": "h3",
+      "text": "The Gryd Proposition: What Was Assessed"
+    },
+    {
+      "_type": "para",
+      "text": "rooftop solar PV."
+    },
+    {
+      "_type": "para",
+      "text": "Gryd’s proposal for the 55-home site included:"
+    },
+    {
+      "_type": "para",
+      "text": "Sitewide Impact"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Hardware value: £455,277",
+        "Total panels: 922",
+        "Generating capacity: 406 kWp",
+        "Batteries: 55 units",
+        "Storage capacity: 550 kWh",
+        "CO₂ eliminated: 60.4 tonnes/year"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Per-Home Impact (Averages)"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Panels per home: 17 (range: 12 to 24)",
+        "Battery per home: 10 kWh",
+        "Demand served on-site: 69.2%",
+        "Year 1 bill saving: 19.9%",
+        "Lifetime saving: £36,610",
+        "Monthly subscription: £70 avg (£56 to £87)"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Gryd would specify, fund, and manage the energy systems. Installation would be carried out by the developer’s own subcontractors or a Gryd-recommended installer. The equipment would remain Gryd’s property under an air rights lease structure, serviced and maintained at Gryd’s cost for 25 years. The homeowner can choose to take ownership at any time, and after 25 years, the system is gifted to the homeowner."
+    },
+    {
+      "_type": "h3",
+      "text": "The Evaluation"
+    },
+    {
+      "_type": "para",
+      "text": "The Technical Director conducted a structured comparison of four scenarios across two approaches, using real costs from the 55-home site. Scenario 1 represents the cost to the developer of meeting their objectives with their current approach of funding all required components, this is the the base case to measure against. Scenario 2 is the same as Scenario 1, but includes a battery in the specification to enable direct comparison with Gryd’s proposal presented in Scenarios 3 and 4. Costs in the table represent the additional cost above the developer’s 2013 Building Regulations baseline for meeting the required compliance and the developer’s low carbon and EPC objectives."
+    },
+    {
+      "_type": "h3",
+      "text": "Cost Savings: The Developer ‘ s Findings"
+    },
+    {
+      "_type": "para",
+      "text": "The analysis demonstrated significant savings with Gryd’s offering, which are further improved with the enhanced renewables spec giving the opportunity to replace MVHR with dMEV."
+    },
+    {
+      "_type": "para",
+      "text": "Scenario 3: Gryd with MVHR retained"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Total Site Cost: £304,375",
+        "Saving vs Scenario 1: £221,400 (42% reduction)",
+        "Cost per plot: £5,534 (down from £9,560)"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "Scenario 4: Gryd with MVHR replaced by dMEV"
+    },
+    {
+      "_type": "bullets",
+      "items": [
+        "Total Site Cost: £150,375",
+        "Saving vs Scenario 1: £375,400 (71% reduction)",
+        "Cost per plot: £2,734 (down from £9,560)"
+      ]
+    },
+    {
+      "_type": "para",
+      "text": "With Gryd covering all hardware costs for the energy systems, the remaining major costs to the developer were installation labour (~£94k, or £1,790/plot), EV chargers (~£32k, or £575/plot) and the cost of the ventilation strategy."
+    },
+    {
+      "_type": "para",
+      "text": "MVHR systems represented a significant per-plot cost (£3,250/plot) and were also a source of ongoing customer care issues."
+    },
+    {
+      "_type": "para",
+      "text": "The switch from MVHR to dMEV was made possible by the larger solar array specified under the Gryd scenarios and the inclusion of battery storage. Under 2021 Part L (the regulations applicable to this site), MVHR contributed meaningful SAP points through its heat recovery performance. Removing it would normally reduce the home’s SAP score and risk losing the EPC A rating. However, the larger solar array (well beyond minimum compliance), combined with battery storage, generated sufficient additional SAP points to offset the loss of MVHR’s contribution. This gave the developer the opportunity to replace MVHR with simpler, lower-cost dMEV at approximately £450/plot while maintaining the target EPC rating."
+    },
+    {
+      "_type": "h3",
+      "text": "Strategic Benefits Identified by the Developer"
+    },
+    {
+      "_type": "para",
+      "text": "Beyond direct cost savings, the developer’s analysis identified several strategic advantages:"
+    },
+    {
+      "_type": "h4",
+      "text": "Batteries as a new market differentiator."
+    },
+    {
+      "_type": "para",
+      "text": "The developer found little to no new-build competition in their price range offering battery storage as standard. In a market where EPC A ratings are becoming more common (6% of new builds and rising), batteries represented a genuinely novel selling point."
+    },
+    {
+      "_type": "h4",
+      "text": "Day-one buyout as a sales tool."
+    },
+    {
+      "_type": "para",
+      "text": "With an outright purchase option available to homebuyers at a competitive price, the subscription model could flex to suit different buyer preferences without affecting the developer’s cost base."
+    },
+    {
+      "_type": "h4",
+      "text": "Zero customer care liability on energy systems."
+    },
+    {
+      "_type": "para",
+      "text": "All equipment would be owned, serviced, and maintained by Gryd for 25 years. The developer would carry no aftercare obligation for PV, batteries, or inverters."
+    },
+    {
+      "_type": "h4",
+      "text": "Elimination of MVHR maintenance burden."
+    },
+    {
+      "_type": "para",
+      "text": "MVHR systems were costly to install and were generating customer care issues post-completion. A funded model with battery storage opened the door to replacing MVHR with simpler, lower-maintenance dMEV systems."
+    },
+    {
+      "_type": "h3",
+      "text": "The Broader Context"
+    },
+    {
+      "_type": "para",
+      "text": "This analysis was conducted under 2021 Building Regulations against the backdrop of the UK’s transition to the Future Homes Standard. The FHS, published in March 2026 and effective from March 2027, mandates on-site renewable generation, low-carbon heating, and tighter airtightness for all new homes. Because this developer was already targeting an all-electric, high-performance EPC A specification, their fabric, ventilation, and solar PV already align with or exceed FHS expectations. The principal additional change required would be the transition from direct electric heating to heat pumps. The solar and battery components assessed here remain directly applicable under the FHS, where on-site renewable generation is a functional requirement."
+    },
+    {
+      "_type": "para",
+      "text": "The conclusion reached by the developer was clear, a funded solar and battery model does not require compromise. It can simultaneously reduce build cost, improve the specification, eliminate maintenance liability, and strengthen the sales proposition."
+    },
+    {
+      "_type": "h3",
+      "text": "Want the full Case Study?"
+    },
+    {
+      "_type": "para",
+      "text": "For more information and additional photos from site, please download the full case study as a PDF."
+    }
+  ]
+};
