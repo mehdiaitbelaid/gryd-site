@@ -448,6 +448,19 @@
 .g-spec dt { color: var(--warm-grey); }
 .g-spec dd { margin: 0; text-align: right; font-weight: 500; }
 
+/* Published comparison tables. Wide tables scroll inside the measure rather
+   than pushing the page sideways. */
+.g-table { margin: 0 0 22px; overflow-x: auto; }
+.g-table table { border-collapse: collapse; width: 100%; font-size: 15px; text-align: left; }
+.g-table th,
+.g-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--stone-mid);
+  vertical-align: top;
+}
+.g-table thead th { color: var(--warm-grey); font-weight: 500; white-space: nowrap; }
+.g-table tbody th { font-weight: 500; }
+
 .g-return { margin-top: 44px; }
 
 .g-share { text-align: center; margin-top: 84px; }

@@ -87,6 +87,29 @@ function BlockView({ block }: { block: Block }) {
           <figcaption>{block.caption}</figcaption>
         </figure>
       );
+    case "table":
+      return (
+        <figure className="g-table">
+          <table>
+            <thead>
+              <tr>
+                {block.head.map((h, i) => (
+                  <th key={i}>{h}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {block.rows.map((row, i) => (
+                <tr key={i}>
+                  {row.map((cell, j) =>
+                    j === 0 ? <th key={j} scope="row">{cell}</th> : <td key={j}>{cell}</td>,
+                  )}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </figure>
+      );
     case "spec":
       return (
         <dl className="g-spec">

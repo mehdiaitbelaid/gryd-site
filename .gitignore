@@ -5,3 +5,6 @@ node_modules
 next-env.d.ts
 .vercel
 .env
+tsconfig.tsbuildinfo
+docs/parity.json
+docs/cards.json

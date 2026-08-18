@@ -26,6 +26,10 @@ export type Stat = {
 
 export type SpecRow = { term: string; detail: string };
 
+/** A table exactly as the live site publishes it. Cells are never reworded into
+    prose, so comparison tables survive the migration intact. */
+export type TableBlock = { _type: "table"; head: string[]; rows: string[][] };
+
 export type Block =
   | { _type: "lead"; text: string }
   | { _type: "para"; text: string }
@@ -36,7 +40,8 @@ export type Block =
   | { _type: "stats"; stats: Stat[]; caption: string }
   | { _type: "gallery"; images: Photo[]; caption: string }
   | { _type: "figure"; image: Photo; caption: string }
-  | { _type: "spec"; rows: SpecRow[] };
+  | { _type: "spec"; rows: SpecRow[] }
+  | TableBlock;
 
 export type Author = {
   name: string;
