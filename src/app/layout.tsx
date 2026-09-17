@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { borna, dmSans } from "@/lib/fonts";
 import { Nav } from "@/components/Nav";
 import "@/styles/tokens.css";
@@ -18,6 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <Nav />
         {children}
+        <SpeedInsights />
       </body>
     </html>
   );
